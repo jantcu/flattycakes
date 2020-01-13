@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2"
+   width="16"
+   height="16"
+   version="1.1"
+   viewBox="0 0 16 16"
+   sodipodi:docname="gimp-display.svg"
+   inkscape:version="0.92.4 (unknown)">
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1375"
+     inkscape:window-height="786"
+     id="namedview8"
+     showgrid="false"
+     inkscape:zoom="37.854492"
+     inkscape:cx="8"
+     inkscape:cy="8"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <metadata
+     id="metadata90">
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+        <dc:contributor>
+          <cc:Agent>
+            <dc:title>many unknown and unnamed, Andrew Chadwick, Alexandre Prokoudine, Aryeom Han, Benoit Touchette, Jakub Steiner, Jehan, Johannes Matschke, Kevin Payne, Klaus Staedtler, Marek Dvoroznak, Michael Natterer</dc:title>
+          </cc:Agent>
+        </dc:contributor>
+        <dc:description>Enhanced, extended tango-art-libre for GIMP</dc:description>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="g4298"
+     transform="matrix(0.66667,0,0,0.66667,2.0065e-6,-16)">
+    <ellipse
+       id="path2407"
+       cx="12"
+       cy="45"
+       rx="5.6794"
+       ry="2.6794"
+       style="color:#000000;fill:#adb0aa;fill-rule:evenodd;stroke:none;stroke-width:0.64121997" />
+    <path
+       id="rect2404"
+       d="m 2.0824,24.31 h 19.835 c 0.53818,0 0.95912,0.37987 0.98428,0.91248 l 0.78662,16.652 c 0.03437,0.72768 -0.53211,1.3153 -1.1931,1.3153 H 1.5042 c -0.66096,0 -1.2274,-0.5876 -1.1931,-1.3153 l 0.78662,-16.652 C 1.121508,24.71888 1.42104,24.31 2.082,24.31 Z"
+       style="color:#000000;fill:#dde1d9;fill-rule:evenodd;stroke:none;stroke-width:0.62005001"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path2377"
+       d="m 2.4761,25.665 -0.81126,14.67 h 20.67 L 21.46296,25.727 Z"
+       style="fill:#3465a4;fill-rule:evenodd;stroke:none;stroke-width:0.32962;stroke-linejoin:round"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>

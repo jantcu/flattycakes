@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg11300"
+   width="16"
+   height="16"
+   version="1.0"
+   viewBox="0 0 16 16"
+   sodipodi:docname="gimp-tool-iscissors.svg"
+   inkscape:version="0.92.4 (unknown)">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1375"
+     inkscape:window-height="786"
+     id="namedview38"
+     showgrid="false"
+     inkscape:zoom="37.854492"
+     inkscape:cx="8"
+     inkscape:cy="8"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg11300" />
+  <defs
+     id="defs3">
+    <linearGradient
+       id="XMLID_897_"
+       x1="292.97"
+       x2="296.94"
+       y1="4.7593"
+       y2="10.711"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         id="stop45093"
+         style="stop-color:#EEEEEC"
+         offset="0" />
+      <stop
+         id="stop45095"
+         style="stop-color:#fff"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient2229">
+      <stop
+         id="stop2231"
+         style="stop-color:#e2e2e2"
+         offset="0" />
+      <stop
+         id="stop2233"
+         style="stop-color:#d8d8d8"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient16968"
+       x1="292.97"
+       x2="296.94"
+       y1="4.7593"
+       y2="10.711"
+       gradientTransform="matrix(-1.2318 0 0 1.1712 372.56 -3.3229)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#XMLID_897_" />
+    <linearGradient
+       id="linearGradient4150"
+       x1="20.288"
+       x2="24.326"
+       y1="6.4604"
+       y2="23.943"
+       gradientTransform="matrix(.32712 0 0 .31609 .011782 .0096679)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#linearGradient2229" />
+    <linearGradient
+       id="linearGradient16974"
+       x1="292.97"
+       x2="296.94"
+       y1="4.7593"
+       y2="10.711"
+       gradientTransform="matrix(1.3259 0 0 1.3075 -384.44 -2.6471)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#XMLID_897_" />
+    <linearGradient
+       id="linearGradient2237"
+       x1="20.288"
+       x2="24.326"
+       y1="6.4604"
+       y2="23.943"
+       gradientTransform="matrix(.32712 0 0 .31609 .094163 1.1159)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#linearGradient2229" />
+  </defs>
+  <metadata
+     id="metadata4">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Jakub Steiner</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:source>http://jimmac.musichall.cz</dc:source>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/2.0/" />
+        <dc:title></dc:title>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/2.0/">
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Reproduction" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Distribution" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/Notice" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/Attribution" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1">
+    <g
+       id="g4017">
+      <rect
+         id="rect4327"
+         width="16"
+         height="16"
+         style="opacity:0;paint-order:stroke fill markers"
+         x="0"
+         y="0" />
+      <polygon
+         id="polygon45129"
+         transform="matrix(1.5752,0,0,1.3246,-458.73,-7.6537)"
+         points="295.75,11.96 297.04,12.3 296.4,13.385 295.13,14.719 294.73,13.673 "
+         style="fill:#204a87;stroke:none;stroke-width:0.13129;stroke-linecap:round;stroke-linejoin:round" />
+      <path
+         id="path45138"
+         d="m 5.7946,9.8659 c 1.5075,0.25649 2.0297,1.8099 1.1645,3.4703 C 6.09406,14.9974 4.1714,16.1366 2.6639,15.8827 1.1557,15.62634 0.6344,14.0736 1.4996,12.4132 2.36423,10.753 4.2875,9.6136 5.7946,9.8659 Z m -0.54949,1.058 c -0.66917,-0.1129 -1.8518,0.59393 -2.4322,1.7105 -0.58209,1.1169 -0.26826,2.079 0.40014,2.1913 0.66898,0.1145 1.8524,-0.59406 2.4328,-1.7106 0.58266,-1.117 0.26845,-2.0783 -0.4007,-2.1912 z"
+         style="fill:#3465a4;stroke:none;stroke-width:0.16289"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path11967"
+         d="m 9.1531,8.7695 -2.0553,0.35242 0.98665,1.3758 0.69812,0.76192 c -0.19106,0.79632 0.040027,1.8039 0.72675,2.7394 1.148,1.5649 3.1092,2.3245 4.3825,1.6994 1.2734,-0.62781 1.3749,-2.4027 0.22684,-3.9667 -1.1474,-1.564 -3.1092,-2.3247 -4.3825,-1.7015 -0.01,0.005 -0.016555,0.01323 -0.026432,0.01832 z m 1.8406,2.1869 c 0.80836,0.14611 1.4393,0.52977 2.0173,1.3188 0.77229,1.0521 0.71661,2.1512 0.15196,2.428 -0.56465,0.27933 -1.7751,-0.19756 -2.5458,-1.2496 -0.35479,-0.48299 -0.50312,-0.89842 -0.56379,-1.3901 -0.03846,-0.31171 -0.09446,-0.70064 0.13356,-0.93307 0.1855,-0.18908 0.53578,-0.22309 0.80682,-0.1741 z"
+         style="fill:#3465a4;stroke:none;stroke-width:0.16501001"
+         inkscape:connector-curvature="0" />
+      <g
+         id="g4094"
+         transform="matrix(0.92203,0,0,0.93498,0.67606,-0.21172)">
+        <g
+           id="g4469">
+          <path
+             id="path16717"
+             transform="matrix(1.1331,0,0,1.0689,-0.88572,0.97907)"
+             d="m 11.395,0.50787 c 0.06324,0.019404 -0.05214,-0.029702 0.0096,-0.009079 0.79495,0.96356 1.2722,1.3217 0.92951,1.9412 -1.1417,1.8065 -2.2752,3.6369 -3.4083,5.4576 C 8.70327,7.939183 8.47879,7.961837 8.25386,7.96687 7.78047,7.978255 7.29449,7.911803 6.84516,7.75903 c 1.5072,-2.4211 3.0151,-4.8476 4.5498,-7.2512 z"
+             style="fill:#cccccc;stroke:none;stroke-width:0.29067001;stroke-linecap:round;stroke-linejoin:round;fill-opacity:1"
+             inkscape:connector-curvature="0" />
+          <path
+             id="path16719"
+             transform="matrix(1.1331,0,0,1.0689,-0.88572,0.97907)"
+             d="m 11.228,1.353 c -0.0756,0.097183 -0.14708,0.2753 -0.22441,0.36548 -1.3238,2.1345 -2.6699,4.2653 -3.9986,6.3909 -0.019807,0.080007 -0.26625,0.31997 -0.00394,0.29806 0.36361,0.062548 0.74313,0.11082 1.1056,0.01803 1.2296,-1.9652 2.435699,-3.9456 3.662499,-5.9114 0.11203,-0.12241 0.13383,-0.29246 0.01614,-0.4147 -0.17338,-0.25812 -0.34902,-0.52936 -0.52667,-0.77598 l -0.02308,0.022351 z"
+             style="fill:#cccccc;fill-opacity:1;stroke:none"
+             inkscape:connector-curvature="0" />
+          <path
+             id="polygon45097"
+             d="m 4.3336,1.6295 c -0.068084,0.021663 -5.95e-4,0.00796 -0.067,0.030986 -0.60957,0.7448 -1.3128,1.4345 -0.94392,2.126 1.229,2.0168 2.4491,4.0603 3.6689,6.093 C 7.23113,9.92592 7.47279,9.951211 7.71491,9.95683 8.2245,9.96954 8.74761,9.895352 9.23131,9.7248 7.60881,7.0218 5.98571,4.3129 4.33361,1.6295 Z"
+             style="fill:#e2e2e2;stroke:none;stroke-width:0.32156;stroke-linecap:round;stroke-linejoin:round;fill-opacity:1"
+             inkscape:connector-curvature="0" />
+          <path
+             id="path16635"
+             d="M 4.255,2.4593 C 4.1297,2.81543 3.78079,3.07756 3.69405,3.45696 c 1.2131,2.0211 2.4439,4.0362 3.6562,6.0551 0.39201,0.081645 0.79439,0.029447 1.182,-0.049389 -0.061751,-0.23405 -0.24148,-0.42069 -0.33693,-0.64152 -1.274,-2.0769 -2.5593,-4.1515 -3.8201,-6.2334 -0.0048,-0.047922 -0.070887,-0.15303 -0.1202,-0.12841 z"
+             style="fill:#e2e2e2;stroke:none;fill-opacity:1"
+             inkscape:connector-curvature="0" />
+        </g>
+      </g>
+      <circle
+         id="path4483"
+         cx="8"
+         cy="2.5"
+         r="0.5"
+         style="fill:#ce5c00;paint-order:stroke fill markers" />
+      <circle
+         id="path4483-2"
+         cx="8"
+         cy="0.5"
+         r="0.5"
+         style="fill:#ce5c00;paint-order:stroke fill markers" />
+      <circle
+         id="path4483-0"
+         cx="8"
+         cy="4.5"
+         r="0.5"
+         style="fill:#ce5c00;paint-order:stroke fill markers" />
+      <circle
+         id="path4483-2-2"
+         cx="10"
+         cy="0.5"
+         r="0.5"
+         style="fill:#ce5c00;paint-order:stroke fill markers" />
+      <circle
+         id="path4483-2-3"
+         cx="12"
+         cy="0.5"
+         r="0.5"
+         style="fill:#ce5c00;paint-order:stroke fill markers" />
+      <circle
+         id="path4483-2-8"
+         cx="14"
+         cy="0.5"
+         r="0.5"
+         style="fill:#ce5c00;paint-order:stroke fill markers" />
+      <circle
+         id="path4483-0-5"
+         cx="8"
+         cy="3.5"
+         r="0.5"
+         style="fill:#f57900;paint-order:stroke fill markers" />
+      <circle
+         id="path4483-0-5-9"
+         cx="8"
+         cy="1.5"
+         r="0.5"
+         style="fill:#f57900;paint-order:stroke fill markers" />
+      <circle
+         id="path4483-0-5-7"
+         cx="9"
+         cy="0.5"
+         r="0.5"
+         style="fill:#f57900;paint-order:stroke fill markers" />
+      <circle
+         id="path4483-0-5-7-0"
+         cx="11"
+         cy="0.5"
+         r="0.5"
+         style="fill:#f57900;paint-order:stroke fill markers" />
+      <circle
+         id="path4483-0-5-7-1"
+         cx="13"
+         cy="0.5"
+         r="0.5"
+         style="fill:#f57900;paint-order:stroke fill markers" />
+    </g>
+  </g>
+</svg>

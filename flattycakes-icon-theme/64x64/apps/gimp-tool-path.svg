@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg11300"
+   width="16"
+   height="16"
+   version="1.0"
+   viewBox="0 0 16 16"
+   sodipodi:docname="gimp-tool-path.svg"
+   inkscape:version="0.92.4 (unknown)"
+   inkscape:export-filename="/home/jimafisk/Desktop/flattycake/24x24/apps/gimp-tool-path.svg.png"
+   inkscape:export-xdpi="148.94708"
+   inkscape:export-ydpi="148.94708">
+  <defs
+     id="defs16" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1375"
+     inkscape:window-height="786"
+     id="namedview14"
+     showgrid="false"
+     inkscape:zoom="29.035572"
+     inkscape:cx="6.3061686"
+     inkscape:cy="8.7529613"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg11300"
+     inkscape:pagecheckerboard="true" />
+  <metadata
+     id="metadata4">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Jakub Steiner</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:source>http://jimmac.musichall.cz</dc:source>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/2.0/" />
+        <dc:title></dc:title>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/2.0/">
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Reproduction" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Distribution" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/Notice" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/Attribution" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1">
+    <g
+       id="g12141">
+      <path
+         id="path13886-4-6"
+         d="M 8.597,1.0902 H 8.5879 C 8.32089,1.103519 8.15103,1.21733 7.87383,1.37243 7.59663,1.52753 7.26171,1.73897 6.88792,1.98896 6.14033,2.48895 5.23812,3.14076 4.38412,3.77736 3.53013,4.414 2.72432,5.03466 2.17172,5.46826 1.89542,5.68503 1.68326,5.85418 1.5565,5.9586 1.49312,6.010544 1.46695,6.028924 1.41733,6.0796 1.41113,6.08626 1.40442,6.092919 1.39132,6.109567 1.38482,6.117557 1.36423,6.149524 1.364,6.15019 c -2.25e-4,3.996e-4 2e-5,-2.6e-4 0,0 -2e-5,1.998e-4 0.18451,0.48773 0.1847,0.4878 1.88e-4,0 0.1856,0.00666 0.186,0.00666 C 1.735096,6.6445168 1.77472,6.631331 1.78542,6.626669 1.79613,6.620009 1.80426,6.618009 1.81013,6.614682 1.85709,6.590042 1.8615,6.583383 1.88557,6.566734 l -0.3785,-0.54368 c 0.0037,0 0.0066,-0.00666 0.013,-0.00666 0.0095,-0.00666 0.04982,-0.017315 0.04943,-0.016649 -3.96e-4,1.332e-4 0.18228,0.00666 0.18209,0.00666 -1.88e-4,-6.66e-5 0.1755125,0.3579387 0.1755325,0.3577387 C 1.9271415,6.3638773 1.93737,6.491945 1.93758,6.491605 1.937804,6.4912055 1.91727,6.520907 1.91157,6.528232 1.90017,6.542883 1.89624,6.547544 1.89336,6.550208 1.87031,6.573516 1.92154,6.524902 1.98051,6.476088 2.09844,6.378993 2.31007,6.211108 2.58402,5.996138 c 0.54791,-0.42987 1.3494,-1.0478 2.1981,-1.6804 0.84874,-0.63271 1.7446,-1.2803 2.4752,-1.7689 0.36528,-0.24427 0.69097,-0.44891 0.94169,-0.58916 0.25072,-0.14031 0.47633,-0.20171 0.42272,-0.19905 h 1.9991 c 0.19438,-0.00999 0.69257,0.19645 1.064,0.55154 0.37138,0.35502 0.61732,0.81738 0.5788,1.2018 l 0.66204,0.066594 c 0.06867,-0.68519 -0.31326,-1.3028 -0.7804,-1.7494 -0.46714,-0.4466 -1.0182,-0.76384 -1.5608,-0.73487 h 0.01821 z"
+         style="color:#000000;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;text-transform:none;text-orientation:mixed;dominant-baseline:auto;white-space:normal;shape-padding:0;isolation:auto;mix-blend-mode:normal;solid-color:#000000;fill:#666666;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.33296999;color-rendering:auto;image-rendering:auto;shape-rendering:auto"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccscccccccccccccccccccccccccccccccsccc" />
+      <rect
+         id="rect14212"
+         x="11.835"
+         y="3.2347"
+         width="1.3307"
+         height="4.3306999"
+         ry="0.67338002"
+         style="fill:#d3d7cf;fill-rule:evenodd;stroke:none;stroke-width:0.66934001;stroke-linecap:square;stroke-linejoin:round" />
+      <rect
+         id="rect14215"
+         x="10.9"
+         y="6.6324"
+         width="3.2"
+         height="3.2"
+         style="fill:#edd400;fill-rule:evenodd;stroke:none;stroke-width:0.80000001;stroke-linecap:square;stroke-linejoin:round" />
+      <rect
+         id="rect14220"
+         x="11.667"
+         y="7.4267001"
+         width="1.6667"
+         height="1.6667"
+         style="fill:#edd400;fill-rule:evenodd" />
+      <path
+         id="rect14217"
+         d="m 9.3749,15.525 v -5.1517 c 0,-0.3484 1.086,-1.3486 1.4641,-1.3486 h 3.322 c 0.37814,0 1.4641,1.0002 1.4641,1.3486 v 5.1517"
+         style="fill:#3465a4;fill-rule:evenodd;stroke:none;stroke-width:0.74984002;stroke-linecap:square;stroke-linejoin:round"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path82013-7-7"
+         d="m 0.15652,0.15652 v 3.2674 h 1.1993 v 3.2451 c -0.59827,0.20749 -1.199,0.73379 -1.1991,1.3309 -10e-5,0.59737 0.6008,1.1244 1.1991,1.3319 v 3.2433 h -1.1993 v 3.2683 h 2.9983 l -1e-6,-3.2683 h -1.1993 v -3.2433 c 0.59827,-0.2075 1.1995,-0.73439 1.1996,-1.3319 1.12e-4,-0.59774 -0.60067,-1.1251 -1.1996,-1.3329 v -3.2432 h 1.1993 v -3.2674 z"
+         style="fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.31303"
+         inkscape:connector-curvature="0" />
+    </g>
+  </g>
+</svg>

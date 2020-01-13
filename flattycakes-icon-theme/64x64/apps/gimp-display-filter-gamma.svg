@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg7854"
+   width="16"
+   height="16"
+   version="1.0"
+   viewBox="0 0 16 16"
+   sodipodi:docname="gimp-display-filter-gamma.svg"
+   inkscape:version="0.92.4 (unknown)">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1375"
+     inkscape:window-height="786"
+     id="namedview29"
+     showgrid="false"
+     inkscape:zoom="37.854492"
+     inkscape:cx="8"
+     inkscape:cy="8"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg7854" />
+  <defs
+     id="defs7856">
+    <linearGradient
+       id="linearGradient5146"
+       x1="12"
+       x2="12"
+       y1="1.2684"
+       y2="21.252"
+       gradientTransform="matrix(.65266 0 0 .64283 .16139 .82295)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         id="stop5142"
+         style="stop-color:#eeeeec"
+         offset="0" />
+      <stop
+         id="stop5144"
+         style="stop-color:#d4d4cf"
+         offset="1" />
+    </linearGradient>
+  </defs>
+  <metadata
+     id="metadata7859">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Jakub Steiner</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:source>http://jimmac.musichall.cz</dc:source>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/GPL/2.0/" />
+        <dc:title></dc:title>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/GPL/2.0/">
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Reproduction" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Distribution" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/Notice" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/ShareAlike" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/SourceCode" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1">
+    <g
+       id="g4292">
+      <rect
+         id="rect4559"
+         x="0.48475999"
+         y="0.49862"
+         width="15.017"
+         height="15.017"
+         rx="1.4044"
+         ry="1.5395"
+         style="color:#000000;fill:#e1e1de;fill-rule:evenodd;stroke:#e1e1de;stroke-width:0.98294997;stroke-opacity:1;fill-opacity:1" />
+      <rect
+         id="rect4547"
+         x="2"
+         y="12"
+         width="2"
+         height="1.9999"
+         style="color:#000000;fill:#2e3436;fill-rule:evenodd" />
+      <rect
+         id="rect4549"
+         x="4"
+         y="12"
+         width="2"
+         height="1.9999"
+         style="color:#000000;fill:#555753;fill-rule:evenodd" />
+      <rect
+         id="rect4551"
+         x="6"
+         y="12"
+         width="2"
+         height="1.9999"
+         style="color:#000000;fill:#888a85;fill-rule:evenodd" />
+      <rect
+         id="rect4553"
+         x="8"
+         y="12"
+         width="2"
+         height="1.9999"
+         style="color:#000000;fill:#babdb6;fill-rule:evenodd" />
+      <rect
+         id="rect4555"
+         x="10"
+         y="12"
+         width="2"
+         height="1.9999"
+         style="color:#000000;fill:#d3d7cf;fill-rule:evenodd" />
+      <rect
+         id="rect4557"
+         x="12"
+         y="12"
+         width="2"
+         height="1.9999"
+         style="color:#000000;fill:#eeeeec;fill-rule:evenodd" />
+      <path
+         id="path4561"
+         d="M 3.9909,9.5139 C 7.8805,8.4171 10.8545,6.1743 12.5445,2.4906"
+         style="color:#000000;fill:none;stroke:#000000;stroke-width:0.96847999;stroke-linecap:round"
+         inkscape:connector-curvature="0" />
+      <rect
+         id="rect5148"
+         x="1.4516"
+         y="1.4516"
+         width="13.097"
+         height="13.097"
+         rx="0.64033002"
+         ry="0.63071001"
+         style="color:#000000;fill:none;stroke:none;stroke-width:0.90328997" />
+      <ellipse
+         id="path5150"
+         cx="2.4983001"
+         cy="2.5046"
+         rx="0.5"
+         ry="0.49998999"
+         style="color:#000000;fill:#555753;fill-rule:evenodd" />
+      <ellipse
+         id="path4597"
+         cx="2.4983001"
+         cy="4.5044999"
+         rx="0.5"
+         ry="0.49998999"
+         style="color:#000000;fill:#555753;fill-rule:evenodd" />
+      <ellipse
+         id="path4599"
+         cx="2.4983001"
+         cy="6.5044999"
+         rx="0.5"
+         ry="0.49998999"
+         style="color:#000000;fill:#555753;fill-rule:evenodd" />
+      <ellipse
+         id="path4601"
+         cx="2.4983001"
+         cy="8.5044003"
+         rx="0.5"
+         ry="0.49998999"
+         style="color:#000000;fill:#555753;fill-rule:evenodd" />
+      <ellipse
+         id="path4603"
+         cx="2.4983001"
+         cy="10.504"
+         rx="0.5"
+         ry="0.49998999"
+         style="color:#000000;fill:#555753;fill-rule:evenodd" />
+      <ellipse
+         id="path4605"
+         cx="4.4962001"
+         cy="10.505"
+         rx="0.49958"
+         ry="0.49957001"
+         style="color:#000000;fill:#555753;fill-rule:evenodd" />
+      <ellipse
+         id="path4607"
+         cx="6.4945002"
+         cy="10.505"
+         rx="0.49958"
+         ry="0.49957001"
+         style="color:#000000;fill:#555753;fill-rule:evenodd" />
+      <ellipse
+         id="path4609"
+         cx="8.4928999"
+         cy="10.505"
+         rx="0.49958"
+         ry="0.49957001"
+         style="color:#000000;fill:#555753;fill-rule:evenodd" />
+      <ellipse
+         id="path4611"
+         cx="10.491"
+         cy="10.505"
+         rx="0.49958"
+         ry="0.49957001"
+         style="color:#000000;fill:#555753;fill-rule:evenodd" />
+      <ellipse
+         id="path4613"
+         cx="12.49"
+         cy="10.505"
+         rx="0.49958"
+         ry="0.49957001"
+         style="color:#000000;fill:#555753;fill-rule:evenodd" />
+    </g>
+  </g>
+</svg>

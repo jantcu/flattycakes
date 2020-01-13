@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg7384"
+   width="16"
+   height="16"
+   version="1.1"
+   viewBox="0 0 16 16"
+   sodipodi:docname="gimp-smartphone.svg"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06">
+  <defs
+     id="defs16" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="958"
+     inkscape:window-height="580"
+     id="namedview14"
+     showgrid="false"
+     inkscape:zoom="20.85965"
+     inkscape:cx="6.4908553"
+     inkscape:cy="7.9205713"
+     inkscape:window-x="169"
+     inkscape:window-y="110"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg7384" />
+  <metadata
+     id="metadata90">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Gnome Symbolic Icon Theme</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <title
+     id="title9167">Gnome Symbolic Icon Theme</title>
+  <g
+     id="g4257">
+    <g
+       id="g4239">
+      <rect
+         id="rect4234"
+         width="16"
+         height="16"
+         style="fill:none;paint-order:stroke fill markers" />
+    </g>
+    <g
+       id="g4464"
+       transform="matrix(.18991 0 0 .17211 -1.8283 -164.81)">
+      <rect
+         id="rect4443"
+         x="31.19"
+         y="966.38"
+         width="41.125"
+         height="77.87"
+         ry="6.2197"
+         style="stroke:none;fill:#666666" />
+      <rect
+         id="rect4187"
+         x="31.19"
+         y="963.9"
+         width="41.125"
+         height="77.87"
+         ry="6.2197"
+         style="fill:#999999;stroke:none" />
+      <rect
+         id="rect4189"
+         x="35.955002"
+         y="969.21002"
+         width="31.594"
+         height="58.103001"
+         ry="3.8995538"
+         style="fill:#0084c8"
+         rx="3.8995538" />
+      <g
+         id="g4459"
+         transform="translate(-2.8886 .13258)">
+        <circle
+           id="path4447"
+           cx="54.641"
+           cy="1036.4"
+           r="2.5156"
+           style="fill:#eeeeec;stroke-width:0.71875;stroke:none" />
+      </g>
+    </g>
+  </g>
+</svg>

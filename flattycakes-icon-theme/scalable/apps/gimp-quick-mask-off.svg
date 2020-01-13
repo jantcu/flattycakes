@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg30571"
+   width="12"
+   height="12"
+   version="1.1"
+   viewBox="0 0 12 12"
+   sodipodi:docname="gimp-quick-mask-off.svg"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06">
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="764"
+     inkscape:window-height="480"
+     id="namedview8"
+     showgrid="false"
+     inkscape:zoom="19.666667"
+     inkscape:cx="6"
+     inkscape:cy="6"
+     inkscape:window-x="212"
+     inkscape:window-y="34"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg30571" />
+  <metadata
+     id="metadata30576">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Klaus Staedtler</dc:title>
+          </cc:Agent>
+        </dc:creator>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path
+     id="rect4266"
+     d="M 0,0 V 12 H 12 V 0 Z M 3,3 H 9 V 9 H 3 Z"
+     inkscape:connector-curvature="0" />
+  <path
+     id="rect17311"
+     d="M 0,0 V 12 H 12 V 0 Z M 1,1 H 2 V 2 H 1 Z M 3,1 H 4 V 2 H 3 Z M 5,1 H 6 V 2 H 5 Z M 7,1 H 8 V 2 H 7 Z m 2,0 h 1 V 2 H 9 Z M 3,3 H 9 V 9 H 3 Z M 1,3 H 2 V 4 H 1 Z m 9,1 h 1 V 5 H 10 Z M 1,5 H 2 V 6 H 1 Z m 9,1 h 1 V 7 H 10 Z M 1,7 H 2 V 8 H 1 Z m 9,1 h 1 v 1 h -1 z m -8,2 h 1 v 1 H 2 Z m 2,0 h 1 v 1 H 4 Z m 2,0 h 1 v 1 H 6 Z m 2,0 h 1 v 1 H 8 Z m 2,0 h 1 v 1 h -1 z"
+     style="fill:#babdb6;stroke-width:1.00349998"
+     inkscape:connector-curvature="0" />
+</svg>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2"
+   width="16"
+   height="16"
+   version="1.1"
+   viewBox="0 0 16 16"
+   sodipodi:docname="gimp-controller-wheel.svg"
+   inkscape:version="0.92.4 (unknown)">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1375"
+     inkscape:window-height="786"
+     id="namedview15"
+     showgrid="false"
+     inkscape:zoom="37.854492"
+     inkscape:cx="10.113356"
+     inkscape:cy="11.170033"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <metadata
+     id="metadata90">
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+        <dc:contributor>
+          <cc:Agent>
+            <dc:title>many unknown and unnamed, Andrew Chadwick, Alexandre Prokoudine, Aryeom Han, Benoit Touchette, Jakub Steiner, Jehan, Johannes Matschke, Kevin Payne, Klaus Staedtler, Marek Dvoroznak, Michael Natterer</dc:title>
+          </cc:Agent>
+        </dc:contributor>
+        <dc:description>Enhanced, extended tango-art-libre for GIMP</dc:description>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs7386">
+    <linearGradient
+       id="linearGradient11627"
+       x1="23.991"
+       x2="23.991"
+       y1="6.5837"
+       y2="15.069"
+       gradientTransform="translate(560.01 146.51)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         id="stop11623"
+         style="stop-color:#b1b1b1"
+         offset="0" />
+      <stop
+         id="stop11629"
+         style="stop-color:#dfdfdf"
+         offset=".2" />
+      <stop
+         id="stop11625"
+         style="stop-color:#565656"
+         offset="1" />
+    </linearGradient>
+  </defs>
+  <g
+     id="stock"
+     transform="translate(-198.97,4.2792)">
+    <g
+       id="gimp-controller-wheel"
+       transform="translate(198.97,-4.2792)">
+      <path
+         id="path5634-1"
+         d="M 0.39505,4.8454 C -0.17179,6.3045 0.03793,8.0315 0.03793,9.7996 v 6.2003 h 15.918 V 9.7996 c 0,-1.6801 0.21834,-3.5156 -0.31615,-4.9868 -2.2646,-6.2331 -12.664,-6.6098 -15.245,0.03254 z"
+         style="color:#000000;fill:none"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path5634-0"
+         d="M 0.72338,5.0973 C 0.18622,6.4641 0.38496,8.0818 0.38496,9.7381 c 3.7e-7,5.8081 3.7e-7,5.8081 3.7e-7,5.8081 H 15.46996 V 9.7381 c 0,-1.5738 0.20691,-3.2932 -0.2996,-4.6713 C 13.02436,-0.772 3.1693604,-1.1249 0.72336037,5.097282 Z"
+         style="color:#000000;fill:#555753"
+         inkscape:connector-curvature="0" />
+      <ellipse
+         id="path11617"
+         cx="8.0272999"
+         cy="8.3804998"
+         rx="4.3056002"
+         ry="6.7312999"
+         style="color:#000000;fill:#eeeeec;fill-rule:evenodd" />
+      <ellipse
+         id="path11619"
+         cx="8.0032997"
+         cy="6.0408001"
+         rx="2.1717999"
+         ry="4.7477002"
+         style="color:#000000;fill:#666666;fill-rule:evenodd;stroke:none;stroke-width:0.5;fill-opacity:1" />
+    </g>
+  </g>
+</svg>

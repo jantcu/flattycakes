@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg11300"
+   width="16"
+   height="16"
+   version="1.0"
+   viewBox="0 0 16 16"
+   sodipodi:docname="gimp-tool-rotate.svg"
+   inkscape:version="0.92.4 (unknown)">
+  <defs
+     id="defs15" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1375"
+     inkscape:window-height="786"
+     id="namedview13"
+     showgrid="false"
+     inkscape:zoom="37.854492"
+     inkscape:cx="8"
+     inkscape:cy="8"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg11300" />
+  <metadata
+     id="metadata4">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title />
+          </cc:Agent>
+        </dc:creator>
+        <dc:source />
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/2.0/" />
+        <dc:title></dc:title>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/2.0/">
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Reproduction" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Distribution" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/Notice" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/Attribution" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1">
+    <g
+       id="g4062"
+       transform="scale(0.99897,1)">
+      <rect
+         id="rect8481"
+         x="1.3913"
+         y="1.3913"
+         width="8.2173996"
+         height="5.2174001"
+         style="fill:#729fcf;fill-rule:evenodd;stroke:none;stroke-width:0.78261;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:0;fill-opacity:1" />
+      <rect
+         id="rect8483"
+         x="2.2039001"
+         y="2.1791"
+         width="6.6334"
+         height="3.6644001"
+         style="fill:#729fcf;fill-rule:evenodd;stroke:none;stroke-width:0.76117003;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:0;stroke-opacity:0.2" />
+      <rect
+         id="rect8467-2"
+         transform="rotate(45)"
+         x="9.4575996"
+         y="-2.5632"
+         width="7.9548998"
+         height="5.8336"
+         style="fill:#204a87;fill-rule:evenodd;stroke:none;stroke-width:0.75;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:0" />
+      <rect
+         id="rect8469"
+         transform="rotate(45)"
+         x="10.229"
+         y="-1.8399"
+         width="6.4561"
+         height="4.3786001"
+         style="fill:none;stroke:none;stroke-width:0.75038999;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:0;stroke-opacity:0.2" />
+      <path
+         id="path8487"
+         d="m 1.6519,12.4 c 0,0 -0.060825,1.7046 1.6488,2.2252 L 4.6078,14.65 4.61067,13.0704 c -1.2946,-0.0063 -1.2361,-0.06926 -1.2604,-0.69517 l 1.2521,-0.02479 v -0.75 l -1.9773,-2.2252 -2.25,2.25 v 0.75 z"
+         style="fill:#005c94;fill-rule:evenodd;stroke:none;stroke-width:0.75px"
+         inkscape:connector-curvature="0" />
+      <rect
+         id="rect4027"
+         width="16"
+         height="16"
+         style="color:#000000;opacity:0;isolation:auto;mix-blend-mode:normal;solid-color:#000000;stroke-width:0.2;color-rendering:auto;image-rendering:auto;shape-rendering:auto"
+         x="0"
+         y="0" />
+      <path
+         id="path8487-9"
+         d="m 14.365,3.6409 c 0,0 0.06082,-1.7046 -1.6488,-2.2252 L 11.4091,1.3909 11.4062,2.9705 c 1.2946,0.0063 1.2361,0.06926 1.2604,0.69517 l -1.2521,0.02479 v 0.75 l 1.9773,2.2252 2.25,-2.25 v -0.75 z"
+         style="fill:#005c94;fill-rule:evenodd;stroke:none;stroke-width:0.75px"
+         inkscape:connector-curvature="0" />
+    </g>
+  </g>
+</svg>

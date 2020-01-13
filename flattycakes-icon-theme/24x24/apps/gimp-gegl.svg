@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2"
+   width="16"
+   height="16"
+   version="1.1"
+   viewBox="0 0 16 16"
+   sodipodi:docname="gimp-gegl.svg"
+   inkscape:version="0.92.4 (unknown)">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1375"
+     inkscape:window-height="786"
+     id="namedview17"
+     showgrid="false"
+     inkscape:zoom="37.854492"
+     inkscape:cx="8"
+     inkscape:cy="8"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <metadata
+     id="metadata90">
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+        <dc:contributor>
+          <cc:Agent>
+            <dc:title>many unknown and unnamed, Andrew Chadwick, Alexandre Prokoudine, Aryeom Han, Benoit Touchette, Jakub Steiner, Jehan, Johannes Matschke, Kevin Payne, Klaus Staedtler, Marek Dvoroznak, Michael Natterer</dc:title>
+          </cc:Agent>
+        </dc:contributor>
+        <dc:description>Enhanced, extended tango-art-libre for GIMP</dc:description>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs7386">
+    <linearGradient
+       id="linearGradient3191"
+       x1="134.7"
+       x2="136.17"
+       y1="225.72"
+       y2="98.343"
+       gradientTransform="matrix(.32093 0 0 .32093 1034.1 687.46)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         id="stop3183"
+         stop-color="#f2f2f1"
+         offset="0" />
+      <stop
+         id="stop3187"
+         stop-color="#c5c7c2"
+         offset=".22316" />
+      <stop
+         id="stop3185"
+         stop-color="#eeeeec"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3193"
+       x2="0"
+       y1="58.699"
+       y2="97.157"
+       gradientTransform="translate(1012.5 656.39)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         id="stop3175"
+         stop-color="#6d706a"
+         offset="0" />
+      <stop
+         id="stop3177"
+         stop-color="#2d2e2c"
+         offset="1" />
+    </linearGradient>
+  </defs>
+  <g
+     id="stock"
+     transform="translate(8.6135,-82.673)">
+    <g
+       id="gimp-gegl"
+       transform="matrix(1.051,0,0,1.0506,-9.0369,82.157)">
+      <g
+         id="g8533"
+         transform="matrix(0.34622,0,0,0.34622,-13.079,-19.04)">
+        <path
+           id="path3680"
+           d="m 39.438,78.985 c 0,12.555 8.8814,20.915 22.285,20.915 13.492,0 23.118,-13.224 20.148,-26.891 H 61.753 c -6.7563,0 -7.6417,10.28 -0.44128,9.9589 3.2783,-0.14608 2.8719,-2.8876 5.4106,-3.1291 0.91667,-0.0872 2.5159,0.36901 2.6647,2.1651 0.35171,4.2472 -3.3855,6.9097 -7.7644,6.8844 -14.677,-0.08547 -15.184,-20.916 -0.58169,-20.916 h 18.895 c -0.0071,-0.01304 -0.01297,-0.02709 -0.02006,-0.04012 h 0.05015 c -2.9775,-5.1531 -9.0818,-11.173 -20.293,-11.018 -11.087,0.15398 -20.234,9.691 -20.234,22.07 z"
+           style="fill:none;stroke:none;stroke-linejoin:round;fill-opacity:1"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path3189"
+           d="m 59.686,57.877 c -10.542,0.14641 -19.285,9.2032 -19.285,21.107 0,6.0506 2.1172,10.994 5.8125,14.465 3.6953,3.4712 9.0084,5.4883 15.51,5.4883 12.612,0 21.628,-12.126 19.289,-24.965 h -19.258 c -2.8897,0 -4.3571,2.1086 -4.4941,4.1992 -0.06853,1.0453 0.22734,2.0365 0.85156,2.7324 0.62422,0.69591 1.5857,1.1716 3.1582,1.1016 1.3697,-0.06103 1.7013,-0.4972 2.293,-1.1914 0.5917,-0.6942 1.4522,-1.7799 3.0684,-1.9336 0.66816,-0.06356 1.4646,0.05145 2.2168,0.51367 0.75224,0.46222 1.4008,1.3551 1.498,2.5293 0.20037,2.4196 -0.80514,4.4987 -2.4512,5.8652 -1.646,1.3666 -3.8911,2.0763 -6.2773,2.0625 -7.7938,-0.04539 -12.079,-5.7596 -12.227,-11.428 -0.07396,-2.8341 0.84393,-5.6869 2.8047,-7.8438 1.9608,-2.1569 4.9662,-3.5703 8.8457,-3.5703 h 17.076 c -3.0933,-4.5619 -8.5857,-9.2696 -18.432,-9.1328 z"
+           style="opacity:0.49561002;fill:#999999;stroke:none"
+           xlink:href="##path3680"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+  </g>
+</svg>

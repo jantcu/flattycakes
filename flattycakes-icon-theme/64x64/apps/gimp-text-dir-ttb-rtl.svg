@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg11300"
+   width="24"
+   height="24"
+   version="1.0"
+   viewBox="0 0 24 24"
+   sodipodi:docname="gimp-text-dir-ttb-rtl.svg"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06">
+  <defs
+     id="defs18" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="764"
+     inkscape:window-height="480"
+     id="namedview16"
+     showgrid="false"
+     inkscape:zoom="9.8333333"
+     inkscape:cx="12.994096"
+     inkscape:cy="12"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg11300" />
+  <metadata
+     id="metadata4">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Jakub Steiner</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:source>http://jimmac.musichall.cz</dc:source>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/2.0/" />
+        <dc:title />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/2.0/">
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Reproduction" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Distribution" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/Notice" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/Attribution" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     transform="translate(0,8)">
+    <text
+       id="text84"
+       x="-50"
+       y="-49"
+       style="fill:#000000;font-family:'Noto Sans CJK JP';font-size:40px;letter-spacing:0px;line-height:1.25;word-spacing:0px;writing-mode:tb-rl"
+       xml:space="preserve"><tspan
+         id="tspan82"
+         x="-49"
+         y="-75" /></text>
+    <text
+       id="text88"
+       x="-100"
+       y="-109"
+       style="fill:#000000;font-family:sans-serif;font-size:40px;letter-spacing:0px;line-height:1.25;word-spacing:0px;writing-mode:tb-rl"
+       xml:space="preserve"><tspan
+         id="tspan86"
+         x="-100"
+         y="-68.800003" /></text>
+    <g
+       id="g864"
+       transform="translate(55)">
+      <rect
+         id="rect4013-8-5-6-4"
+         x="-55"
+         y="-8"
+         width="24"
+         height="24"
+         rx=".41507"
+         ry="2.1219"
+         style="color-rendering:auto;color:#000000;image-rendering:auto;isolation:auto;mix-blend-mode:normal;opacity:0;shape-rendering:auto;solid-color:#000000;stroke-width:.75" />
+      <path
+         id="path1105-9-5"
+         d="m-32.521-6.458v14.693h1.5208l-2.6138 5.3068-2.618-5.3068h1.542v-14.693z"
+         style="color-rendering:auto;color:#000000;dominant-baseline:auto;font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;image-rendering:auto;isolation:auto;mix-blend-mode:normal;shape-padding:0;shape-rendering:auto;solid-color:#000000;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal;fill:#2d2d2d" />
+      <path
+         id="path1105-9-5-3"
+         d="m-32.521-4.2891h-14.693v1.5208l-5.3068-2.6138 5.3068-2.618v1.542h14.693z"
+         style="color-rendering:auto;color:#000000;dominant-baseline:auto;font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;image-rendering:auto;isolation:auto;mix-blend-mode:normal;opacity:.6;shape-padding:0;shape-rendering:auto;solid-color:#000000;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal" />
+      <path
+         id="path158-9"
+         d="m-47.176 14.028v1.1478l8.3526-3.216v-1.2841l-8.3526-3.1819v1.1023l2.5456 0.94322v3.5456zm3.3638-4.2388 1.3296 0.50002c0.93186 0.34092 1.841 0.68185 2.8069 1v0.04546c-0.95458 0.34092-1.8637 0.67048-2.8069 1.0114l-1.3296 0.50002z"
+         style="fill:#2d2d2d" />
+      <g
+         id="text875"
+         transform="matrix(.25409 0 0 .25409 -52.193 .69737)"
+         aria-label="文">
+        <path
+           id="path877"
+           d="m25.1-0.94019 2.96-0.84q3.16 8.92 8.04 13.56 5.2-5.08 8.56-15.28h-25.96v-2.8h15.88v-5.92h3.2v5.92h15.88v2.8h-5.64q-3.72 11.52-9.6 17.28 5.28 4 15.16 7l-0.88 2.72q-10.72-3.2-16.56-7.72-5.72 4.48-16.48 7.72l-0.88-2.72q9.84-3 15.04-7-5.32-5.16-8.72-14.72z"
+           style="fill:#2d2d2d" />
+      </g>
+    </g>
+  </g>
+</svg>

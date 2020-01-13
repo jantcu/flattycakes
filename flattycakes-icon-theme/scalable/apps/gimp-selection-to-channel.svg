@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg11300"
+   width="16"
+   height="16"
+   version="1.0"
+   viewBox="0 0 16 16"
+   sodipodi:docname="gimp-selection-to-channel.svg"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="904"
+     inkscape:window-height="519"
+     id="namedview56"
+     showgrid="false"
+     inkscape:zoom="14.75"
+     inkscape:cx="8"
+     inkscape:cy="8"
+     inkscape:window-x="153"
+     inkscape:window-y="88"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg11300" />
+  <defs
+     id="defs3">
+    <radialGradient
+       id="radialGradient8095-74"
+       cx="24.226"
+       cy="30.48"
+       r="13.354"
+       gradientTransform="matrix(1.8409 0 0 .82128 -20.451 -6.1823)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         id="stop8091"
+         style="stop-opacity:.27835"
+         offset="0" />
+      <stop
+         id="stop8093"
+         style="stop-color:#a8a8a8;stop-opacity:0"
+         offset="1" />
+    </radialGradient>
+    <linearGradient
+       id="linearGradient3588-91"
+       x1="23.434"
+       x2="23.434"
+       y1="15.759"
+       y2="8.0477"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         id="stop3235"
+         style="stop-color:#eeeeec"
+         offset="0" />
+      <stop
+         id="stop3237"
+         style="stop-color:#a3a398"
+         offset="1" />
+    </linearGradient>
+  </defs>
+  <metadata
+     id="metadata4">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title />
+          </cc:Agent>
+        </dc:creator>
+        <dc:source />
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/2.0/" />
+        <dc:title />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/2.0/">
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Reproduction" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Distribution" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/Notice" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/Attribution" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1">
+    <g
+       id="g4465">
+      <g
+         id="g4497">
+        <path
+           id="rect4014-3-5-0"
+           d="m0.4898 4.4898h11.02v11.02h-11.02z"
+           style="fill:none;stroke-width:.97959;stroke:#000" />
+        <g
+           id="g4316"
+           transform="translate(-4)">
+          <path
+             id="rect4014-5"
+             d="m5.4702 5.4702h9.0595v9.0595h-9.0595z"
+             style="fill:#ef2929;stroke:#fff" />
+          <g
+             id="g4376">
+            <rect
+               id="rect4329"
+               x="4"
+               y="4"
+               width="1"
+               height="1"
+               style="fill:#fff" />
+            <rect
+               id="rect4329-4"
+               x="6.2"
+               y="4"
+               width="1"
+               height="1"
+               style="fill:#fff" />
+            <rect
+               id="rect4329-6"
+               x="8.4"
+               y="4"
+               width="1"
+               height="1"
+               style="fill:#fff" />
+            <rect
+               id="rect4329-3"
+               x="10.6"
+               y="4"
+               width="1"
+               height="1"
+               style="fill:#fff" />
+            <rect
+               id="rect4329-0"
+               x="12.8"
+               y="4"
+               width="1"
+               height="1"
+               style="fill:#fff" />
+            <rect
+               id="rect4329-63"
+               x="15"
+               y="4"
+               width="1"
+               height="1"
+               style="fill:#fff" />
+          </g>
+          <g
+             id="g4376-1"
+             transform="translate(0,11)">
+            <rect
+               id="rect4329-8"
+               x="4"
+               y="4"
+               width="1"
+               height="1"
+               style="fill:#fff" />
+            <rect
+               id="rect4329-4-1"
+               x="6.2"
+               y="4"
+               width="1"
+               height="1"
+               style="fill:#fff" />
+            <rect
+               id="rect4329-6-3"
+               x="8.4"
+               y="4"
+               width="1"
+               height="1"
+               style="fill:#fff" />
+            <rect
+               id="rect4329-3-2"
+               x="10.6"
+               y="4"
+               width="1"
+               height="1"
+               style="fill:#fff" />
+            <rect
+               id="rect4329-0-9"
+               x="12.8"
+               y="4"
+               width="1"
+               height="1"
+               style="fill:#fff" />
+            <rect
+               id="rect4329-63-8"
+               x="15"
+               y="4"
+               width="1"
+               height="1"
+               style="fill:#fff" />
+          </g>
+          <g
+             id="g4454">
+            <rect
+               id="rect4329-4-1-3"
+               transform="rotate(-90)"
+               x="-13.8"
+               y="4"
+               width="1"
+               height="1"
+               style="fill:#fff" />
+            <rect
+               id="rect4329-6-3-5"
+               transform="rotate(-90)"
+               x="-11.6"
+               y="4"
+               width="1"
+               height="1"
+               style="fill:#fff" />
+            <rect
+               id="rect4329-3-2-6"
+               transform="rotate(-90)"
+               x="-9.4"
+               y="4"
+               width="1"
+               height="1"
+               style="fill:#fff" />
+            <rect
+               id="rect4329-0-9-5"
+               transform="rotate(-90)"
+               x="-7.2"
+               y="4"
+               width="1"
+               height="1"
+               style="fill:#fff" />
+          </g>
+          <g
+             id="g4454-9"
+             transform="translate(11)">
+            <rect
+               id="rect4329-4-1-3-9"
+               transform="rotate(-90)"
+               x="-13.8"
+               y="4"
+               width="1"
+               height="1"
+               style="fill:#fff" />
+            <rect
+               id="rect4329-6-3-5-3"
+               transform="rotate(-90)"
+               x="-11.6"
+               y="4"
+               width="1"
+               height="1"
+               style="fill:#fff" />
+            <rect
+               id="rect4329-3-2-6-4"
+               transform="rotate(-90)"
+               x="-9.4"
+               y="4"
+               width="1"
+               height="1"
+               style="fill:#fff" />
+            <rect
+               id="rect4329-0-9-5-7"
+               transform="rotate(-90)"
+               x="-7.2"
+               y="4"
+               width="1"
+               height="1"
+               style="fill:#fff" />
+          </g>
+        </g>
+        <g
+           id="g4004-0"
+           transform="matrix(.76615 0 0 .77108 -.099253 3.8229)"
+           style="opacity:0">
+          <rect
+             id="rect4002-4"
+             x=".20775"
+             y=".20775"
+             width="15.584"
+             height="15.584"
+             style="color-rendering:auto;color:#000000;fill:#fff;image-rendering:auto;isolation:auto;mix-blend-mode:normal;opacity:.738;shape-rendering:auto;solid-color:#000000" />
+        </g>
+      </g>
+      <g
+         id="gimp-channel"
+         transform="matrix(.76232 0 0 .75097 4.9781 .028948)">
+        <g
+           id="g4062-6"
+           transform="matrix(.99846 0 0 .5882 0 6.5296)">
+          <g
+             id="g4006-6"
+             transform="matrix(.69459 0 0 .69459 -7.0516 -3.4729)">
+            <path
+               id="path3068-54"
+               d="m21.465 5.5c-4.896 0-8.8769 1.7334-8.8769 3.8658v14.304c0 2.1324 3.981 3.8658 8.8769 3.8658 4.896 0 9.0355-1.7334 9.0355-3.8658v-14.304c0-2.1324-4.1395-3.8658-9.0355-3.8658z"
+               style="color:#000000;display:block;fill:#2d2d2d;stroke-miterlimit:10;stroke:#2d2d2d;stroke-opacity:1" />
+            <path
+               id="path4174-10"
+               d="m21.471 6.5c-4.3507 0-7.8747 1.5426-7.8883 3.4398l-0.096 13.392c-0.0136 1.8973 3.6336 3.5225 7.9843 3.5225 4.3507 0 8.1386-1.4598 8.1251-3.3571l-0.096-13.557c-0.013432-1.8973-3.6784-3.4398-8.0291-3.4398z"
+               style="color:#000000;display:block;fill:none;opacity:.5443;stroke-miterlimit:10;stroke:url(#linearGradient4352)" />
+            <ellipse
+               id="path3364-6"
+               transform="matrix(.62222 0 0 .54546 6.5667 1.8247)"
+               cx="24"
+               cy="14.071"
+               rx="12.857"
+               ry="5.5"
+               style="color:#000000;display:block;fill:url(#radialGradient8095-74);opacity:.7732;stroke-miterlimit:10;stroke-width:1.7165;stroke:url(#linearGradient4356)" />
+          </g>
+        </g>
+        <g
+           id="g4062-0-2"
+           transform="matrix(.99731 0 0 .6183 0 -.038524)">
+          <g
+             id="g4006-9"
+             transform="matrix(.69459 0 0 .69459 -7.0516 -3.4729)">
+            <path
+               id="path3068-0"
+               d="m21.465 5.5c-4.896 0-8.8769 1.7334-8.8769 3.8658v14.304c0 2.1324 3.981 3.8658 8.8769 3.8658 4.896 0 9.0355-1.7334 9.0355-3.8658v-14.304c0-2.1324-4.1395-3.8658-9.0355-3.8658z"
+               style="color:#000000;display:block;fill:#d2d2d2;stroke-miterlimit:10;stroke:#d2d2d2;stroke-opacity:1" />
+            <ellipse
+               id="path3241-8-5"
+               transform="matrix(.61236 0 0 .50902 6.9302 16.538)"
+               cx="24"
+               cy="14.071"
+               rx="12.857"
+               ry="5.5"
+               style="color:#000000;display:block;fill:#d3d7cf;opacity:.23626;stroke-miterlimit:10;stroke-width:1.7911;stroke:url(#linearGradient3594-90)" />
+            <path
+               id="path4174-0-2"
+               d="m21.471 6.5c-4.3507 0-7.8883 1.5424-7.8883 3.4398v13.061c0 1.8974 3.5376 3.4398 7.8883 3.4398 4.3507 0 8.0291-1.5424 8.0291-3.4398v-13.061c0-1.8974-3.6784-3.4398-8.0291-3.4398z"
+               style="color:#000000;display:block;fill:none;opacity:.5443;stroke-miterlimit:10;stroke:url(#linearGradient7919)" />
+            <ellipse
+               id="path3364-4-4"
+               transform="matrix(.62222 0 0 .54546 6.5667 1.8247)"
+               cx="24"
+               cy="14.071"
+               rx="12.857"
+               ry="5.5"
+               style="color:#000000;display:block;fill:#e8e8e6;opacity:1;stroke-miterlimit:10;stroke-width:1.7165;stroke:#e8e8e6;stroke-opacity:1;fill-opacity:1" />
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

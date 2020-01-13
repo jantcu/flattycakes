@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg7854"
+   width="16"
+   height="16"
+   version="1.0"
+   viewBox="0 0 16 16"
+   sodipodi:docname="gimp-display-filter-proof.svg"
+   inkscape:version="0.92.4 (unknown)">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1375"
+     inkscape:window-height="786"
+     id="namedview28"
+     showgrid="false"
+     inkscape:zoom="37.854492"
+     inkscape:cx="8"
+     inkscape:cy="8"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg7854" />
+  <defs
+     id="defs7856">
+    <linearGradient
+       id="linearGradient5146"
+       x1="12"
+       x2="12"
+       y1="1.2684"
+       y2="21.252"
+       gradientTransform="matrix(.65278 0 0 .64297 .16665 .81448)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         id="stop5142"
+         style="stop-color:#eeeeec"
+         offset="0" />
+      <stop
+         id="stop5144"
+         style="stop-color:#d4d4cf"
+         offset="1" />
+    </linearGradient>
+  </defs>
+  <metadata
+     id="metadata7859">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Jakub Steiner</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:source>http://jimmac.musichall.cz</dc:source>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/GPL/2.0/" />
+        <dc:title></dc:title>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/GPL/2.0/">
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Reproduction" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Distribution" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/Notice" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/ShareAlike" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/SourceCode" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1">
+    <g
+       id="g4289">
+      <rect
+         id="rect4559"
+         x="0.49008"
+         y="0.49008"
+         width="15.02"
+         height="15.02"
+         rx="1.4004"
+         ry="1.5352"
+         style="color:#000000;fill:#dbdbd7;fill-rule:evenodd;stroke:#dbdbd7;stroke-width:0.98016;stroke-opacity:1;fill-opacity:1" />
+      <rect
+         id="rect5148"
+         x="1.5124"
+         y="1.5801001"
+         width="12.961"
+         height="12.943"
+         rx="0.63777"
+         ry="0.62733001"
+         style="color:#000000;fill:none;stroke:none;stroke-width:0.89907002" />
+      <rect
+         id="rect3943"
+         x="3"
+         y="11"
+         width="2"
+         height="2"
+         style="color:#000000;isolation:auto;mix-blend-mode:normal;solid-color:#000000;fill:#ffff00;color-rendering:auto;image-rendering:auto;shape-rendering:auto" />
+      <rect
+         id="rect3943-6"
+         x="3"
+         y="8.5"
+         width="2"
+         height="2"
+         style="color:#000000;opacity:0.75;isolation:auto;mix-blend-mode:normal;solid-color:#000000;fill:#ffff00;color-rendering:auto;image-rendering:auto;shape-rendering:auto" />
+      <rect
+         id="rect3943-4"
+         x="3"
+         y="5.5"
+         width="2"
+         height="2"
+         style="color:#000000;opacity:0.5;isolation:auto;mix-blend-mode:normal;solid-color:#000000;fill:#ffff00;color-rendering:auto;image-rendering:auto;shape-rendering:auto" />
+      <rect
+         id="rect3943-0"
+         x="3"
+         y="3"
+         width="2"
+         height="2"
+         style="color:#000000;opacity:0.25;isolation:auto;mix-blend-mode:normal;solid-color:#000000;fill:#ffff00;color-rendering:auto;image-rendering:auto;shape-rendering:auto" />
+      <rect
+         id="rect3943-07"
+         x="8.5"
+         y="11"
+         width="2"
+         height="2"
+         style="color:#000000;isolation:auto;mix-blend-mode:normal;solid-color:#000000;fill:#ff00ff;color-rendering:auto;image-rendering:auto;shape-rendering:auto" />
+      <rect
+         id="rect3943-07-9"
+         x="8.5"
+         y="8.5"
+         width="2"
+         height="2"
+         style="color:#000000;opacity:0.75;isolation:auto;mix-blend-mode:normal;solid-color:#000000;fill:#ff00ff;color-rendering:auto;image-rendering:auto;shape-rendering:auto" />
+      <rect
+         id="rect3943-07-3"
+         x="8.5"
+         y="5.5"
+         width="2"
+         height="2"
+         style="color:#000000;opacity:0.5;isolation:auto;mix-blend-mode:normal;solid-color:#000000;fill:#ff00ff;color-rendering:auto;image-rendering:auto;shape-rendering:auto" />
+      <rect
+         id="rect3943-07-7"
+         x="8.5"
+         y="3"
+         width="2"
+         height="2"
+         style="color:#000000;opacity:0.25;isolation:auto;mix-blend-mode:normal;solid-color:#000000;fill:#ff00ff;color-rendering:auto;image-rendering:auto;shape-rendering:auto" />
+      <rect
+         id="rect3943-07-6"
+         x="5.5"
+         y="11"
+         width="2"
+         height="2"
+         style="color:#000000;isolation:auto;mix-blend-mode:normal;solid-color:#000000;fill:#00ffff;color-rendering:auto;image-rendering:auto;shape-rendering:auto" />
+      <rect
+         id="rect3943-07-6-1"
+         x="5.5"
+         y="8.5"
+         width="2"
+         height="2"
+         style="color:#000000;opacity:0.75;isolation:auto;mix-blend-mode:normal;solid-color:#000000;fill:#00ffff;color-rendering:auto;image-rendering:auto;shape-rendering:auto" />
+      <rect
+         id="rect3943-07-6-10"
+         x="5.5"
+         y="5.5"
+         width="2"
+         height="2"
+         style="color:#000000;opacity:0.5;isolation:auto;mix-blend-mode:normal;solid-color:#000000;fill:#00ffff;color-rendering:auto;image-rendering:auto;shape-rendering:auto" />
+      <rect
+         id="rect3943-07-6-9"
+         x="5.5"
+         y="3"
+         width="2"
+         height="2"
+         style="color:#000000;opacity:0.25;isolation:auto;mix-blend-mode:normal;solid-color:#000000;fill:#00ffff;color-rendering:auto;image-rendering:auto;shape-rendering:auto" />
+      <rect
+         id="rect3943-07-71"
+         x="11"
+         y="11"
+         width="2"
+         height="2"
+         style="color:#000000;isolation:auto;mix-blend-mode:normal;solid-color:#000000;color-rendering:auto;image-rendering:auto;shape-rendering:auto" />
+      <rect
+         id="rect3943-07-2"
+         x="11"
+         y="8.5"
+         width="2"
+         height="2"
+         style="color:#000000;opacity:0.75;isolation:auto;mix-blend-mode:normal;solid-color:#000000;color-rendering:auto;image-rendering:auto;shape-rendering:auto" />
+      <rect
+         id="rect3943-07-2-3"
+         x="11"
+         y="5.5"
+         width="2"
+         height="2"
+         style="color:#000000;opacity:0.5;isolation:auto;mix-blend-mode:normal;solid-color:#000000;color-rendering:auto;image-rendering:auto;shape-rendering:auto" />
+      <rect
+         id="rect3943-07-2-7"
+         x="11"
+         y="3"
+         width="2"
+         height="2"
+         style="color:#000000;opacity:0.25;isolation:auto;mix-blend-mode:normal;solid-color:#000000;color-rendering:auto;image-rendering:auto;shape-rendering:auto" />
+    </g>
+  </g>
+</svg>

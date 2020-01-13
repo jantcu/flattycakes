@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg11300"
+   width="24"
+   height="24"
+   version="1.0"
+   viewBox="0 0 24 24"
+   sodipodi:docname="gimp-text-dir-rtl.svg"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06">
+  <defs
+     id="defs14" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="764"
+     inkscape:window-height="480"
+     id="namedview12"
+     showgrid="false"
+     inkscape:zoom="9.8333333"
+     inkscape:cx="12"
+     inkscape:cy="12"
+     inkscape:window-x="146"
+     inkscape:window-y="86"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg11300" />
+  <metadata
+     id="metadata4">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Jakub Steiner</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:source>http://jimmac.musichall.cz</dc:source>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/2.0/" />
+        <dc:title />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/2.0/">
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Reproduction" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Distribution" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/Notice" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/Attribution" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     transform="translate(0,8)">
+    <g
+       id="g4378">
+      <g
+         id="g4450">
+        <path
+           id="path8347-7"
+           d="m12.309 9.1941h4.1898v2.6834h-4.1898v2.6834h-1.3966l-4.1898-4.0251 4.1898-4.0251h1.3966z"
+           style="fill-rule:evenodd;fill:#2d2d2d;stroke-width:1.0029;stroke:#2d2d2d;stroke-opacity:1" />
+        <rect
+           id="rect4013"
+           y="-8"
+           width="24"
+           height="24"
+           rx=".41507"
+           ry="2.1219"
+           style="color-rendering:auto;color:#000000;image-rendering:auto;isolation:auto;mix-blend-mode:normal;opacity:0;shape-rendering:auto;solid-color:#000000;stroke-width:.75" />
+      </g>
+      <path
+         id="path7162"
+         d="m4.1497-5.1237v4.4805s0 1.4935 1.5 1.4935h4.5l1.5-2.2957 1.5 2.2957h4.5c1.5 0 3-2.987 0-2.987h-1.5l1.5 1.4935h-4.5l-1.5-2.2957-1.5 2.2957h-4.5v-4.4805z"
+         style="fill:#bebebe;stroke-width:0.29935;stroke:none" />
+      <rect
+         id="rect7164"
+         x="16.15"
+         y="-4.9459"
+         width="1.5"
+         height="1.4935"
+         style="fill:#bebebe;stroke-width:0.29935;stroke:none" />
+      <rect
+         id="rect7174"
+         x="13.366"
+         y="-4.873"
+         width="1.5"
+         height="1.4935"
+         style="fill:#bebebe;stroke-width:0.29935;stroke:none" />
+    </g>
+  </g>
+</svg>

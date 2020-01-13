@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg11300"
+   width="16"
+   height="16"
+   version="1.0"
+   sodipodi:docname="gimp-prefs-interface.svg"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06">
+  <defs
+     id="defs18" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="967"
+     inkscape:window-height="598"
+     id="namedview16"
+     showgrid="false"
+     inkscape:zoom="14.75"
+     inkscape:cx="8"
+     inkscape:cy="8"
+     inkscape:window-x="103"
+     inkscape:window-y="66"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg11300" />
+  <metadata
+     id="metadata4">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Jakub Steiner</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:source>http://jimmac.musichall.cz</dc:source>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/2.0/" />
+        <dc:title>Preferences Session</dc:title>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>session</rdf:li>
+            <rdf:li>restart</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/2.0/">
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Reproduction" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Distribution" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/Notice" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/Attribution" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1">
+    <g
+       id="g4163">
+      <rect
+         id="rect3862"
+         x="2.4988"
+         y="2.4988"
+         width="13.002"
+         height="13.002"
+         rx=".53305"
+         ry=".55289"
+         style="color:#000000;fill-rule:evenodd;fill:#cccccc;stroke-width:0.99768;stroke:#cccccc;stroke-opacity:1" />
+      <rect
+         id="rect3864"
+         x="5"
+         y="4"
+         width="9"
+         height="1"
+         rx=".083352"
+         ry=".11114"
+         style="color:#000000;fill-rule:evenodd;fill:#204a87" />
+      <rect
+         id="rect2787"
+         x=".36069"
+         y=".69637"
+         width="8.2787"
+         height="12.607"
+         rx="1.1651"
+         ry="1.0794"
+         style="color:#000000;fill-rule:evenodd;fill:#eeeeec;stroke-width:1.0023;stroke:none" />
+      <rect
+         id="rect2789"
+         x="1.9078"
+         y="2.031"
+         width="5.2664"
+         height="1.069"
+         rx=".23411"
+         ry=".11881"
+         style="color:#000000;fill-rule:evenodd;fill:#555753" />
+      <circle
+         id="path6940"
+         cx="6"
+         cy="5.1207"
+         r="1"
+         style="color:#000000;fill-rule:evenodd;fill:#ef2929" />
+      <circle
+         id="path6942"
+         cx="3"
+         cy="5"
+         r="1"
+         style="color:#000000;fill-rule:evenodd;fill:#4e9a06" />
+      <circle
+         id="path6944"
+         cx="3"
+         cy="8"
+         r="1"
+         style="color:#000000;fill-rule:evenodd;fill:#3465a4" />
+      <circle
+         id="path6946"
+         cx="6"
+         cy="8"
+         r="1"
+         style="color:#000000;fill-rule:evenodd;fill:#888a85" />
+      <circle
+         id="path6948"
+         cx="6"
+         cy="11"
+         r="1"
+         style="color:#000000;fill-rule:evenodd;fill:#c4a000" />
+      <circle
+         id="path6950"
+         cx="3"
+         cy="11"
+         r="1"
+         style="color:#000000;fill-rule:evenodd;fill:#f57900" />
+    </g>
+  </g>
+</svg>

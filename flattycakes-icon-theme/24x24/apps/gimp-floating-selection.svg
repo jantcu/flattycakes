@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg30571"
+   width="16"
+   height="16"
+   version="1.1"
+   viewBox="0 0 16 16"
+   sodipodi:docname="gimp-floating-selection.svg"
+   inkscape:version="0.92.4 (unknown)">
+  <defs
+     id="defs32" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1375"
+     inkscape:window-height="786"
+     id="namedview30"
+     showgrid="false"
+     inkscape:zoom="37.854492"
+     inkscape:cx="8"
+     inkscape:cy="8"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg30571" />
+  <metadata
+     id="metadata30576">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Klaus Staedtler</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     transform="translate(0,-1036.4)">
+    <g
+       id="g4621">
+      <g
+         id="g4253">
+        <rect
+           id="rect28186-4"
+           x="2.5919e-10"
+           y="1036.4"
+           width="16"
+           height="16"
+           rx="0"
+           style="fill:none" />
+      </g>
+      <g
+         id="g4507">
+        <path
+           id="rect4355"
+           transform="translate(0,1036.4)"
+           d="M 3,1 0,7 h 13 l 3,-6 z m 0.5,1 h 1 L 4,3 H 3 Z m 2,0 h 1 L 6,3 H 5 Z m 2,0 h 1 L 8,3 H 7 Z m 2,0 h 1 L 10,3 H 9 Z m 2,0 h 1 L 12,3 h -1 z m 2,0 h 1 L 14,3 H 13 Z M 2.75,3.5 h 1 l -0.5,1 h -1 z m 10,0 h 1 l -0.5,1 h -1 z M 2,5 H 3 L 2.5,6 h -1 z M 4,5 H 5 L 4.5,6 h -1 z M 6,5 H 7 L 6.5,6 h -1 z M 8,5 H 9 L 8.5,6 h -1 z m 2,0 h 1 l -0.5,1 h -1 z m 2,0 h 1 l -0.5,1 h -1 z"
+           style="fill:#555753"
+           inkscape:connector-curvature="0" />
+        <g
+           id="g4487" />
+      </g>
+      <g
+         id="g4507-3"
+         transform="translate(0,8)">
+        <path
+           id="rect4355-6"
+           d="m 3,1037.4 h 13 l -3,6 H 0 Z"
+           style="fill:#d3d7cf"
+           inkscape:connector-curvature="0" />
+        <g
+           id="g4487-6">
+          <g
+             id="g4406-1"
+             transform="translate(0.5)">
+            <path
+               id="rect4358-5"
+               d="m 1.5,1041.4 h 1 l -0.5,1 H 1 Z"
+               inkscape:connector-curvature="0"
+               style="fill:#2d2d2d" />
+            <path
+               id="rect4358-4-68"
+               d="m 3.5,1041.4 h 1 l -0.5,1 H 3 Z"
+               inkscape:connector-curvature="0"
+               style="fill:#2d2d2d" />
+            <path
+               id="rect4358-8-8"
+               d="m 5.5,1041.4 h 1 l -0.5,1 H 5 Z"
+               inkscape:connector-curvature="0"
+               style="fill:#2d2d2d" />
+            <path
+               id="rect4358-3-2"
+               d="m 7.5,1041.4 h 1 l -0.5,1 H 7 Z"
+               inkscape:connector-curvature="0"
+               style="fill:#2d2d2d" />
+            <path
+               id="rect4358-9-8"
+               d="m 9.5,1041.4 h 1 l -0.5,1 H 9 Z"
+               inkscape:connector-curvature="0"
+               style="fill:#2d2d2d" />
+            <path
+               id="rect4358-0-3"
+               d="m 11.5,1041.4 h 1 l -0.5,1 h -1 z"
+               inkscape:connector-curvature="0"
+               style="fill:#2d2d2d" />
+          </g>
+          <g
+             id="g4406-5-9"
+             transform="translate(2,-3)">
+            <path
+               id="rect4358-04-9"
+               d="m 1.5,1041.4 h 1 l -0.5,1 H 1 Z"
+               inkscape:connector-curvature="0"
+               style="fill:#2d2d2d" />
+            <path
+               id="rect4358-4-6-6"
+               d="m 3.5,1041.4 h 1 l -0.5,1 H 3 Z"
+               inkscape:connector-curvature="0"
+               style="fill:#2d2d2d" />
+            <path
+               id="rect4358-8-3-7"
+               d="m 5.5,1041.4 h 1 l -0.5,1 H 5 Z"
+               inkscape:connector-curvature="0"
+               style="fill:#2d2d2d" />
+            <path
+               id="rect4358-3-4-8"
+               d="m 7.5,1041.4 h 1 l -0.5,1 H 7 Z"
+               inkscape:connector-curvature="0"
+               style="fill:#2d2d2d" />
+            <path
+               id="rect4358-9-2-1"
+               d="m 9.5,1041.4 h 1 l -0.5,1 H 9 Z"
+               inkscape:connector-curvature="0"
+               style="fill:#2d2d2d" />
+            <path
+               id="rect4358-0-1-6"
+               d="m 11.5,1041.4 h 1 l -0.5,1 h -1 z"
+               inkscape:connector-curvature="0"
+               style="fill:#2d2d2d" />
+          </g>
+          <path
+             id="rect4358-7-3"
+             d="m 2.75,1039.9 h 1 l -0.5,1 h -1 z"
+             inkscape:connector-curvature="0"
+             style="fill:#2d2d2d" />
+          <path
+             id="rect4358-7-7-2"
+             d="m 12.75,1039.9 h 1 l -0.5,1 h -1 z"
+             inkscape:connector-curvature="0"
+             style="fill:#2d2d2d" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

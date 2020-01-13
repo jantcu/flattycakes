@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="16"
+   height="16"
+   viewBox="0 0 16 16"
+   id="svg30571"
+   version="1.1"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
+   sodipodi:docname="gimp-reset.svg"
+   inkscape:export-filename="/home/klaus/Bilder/icons/gimp-channel.png"
+   inkscape:export-xdpi="98.181816"
+   inkscape:export-ydpi="98.181816">
+  <defs
+     id="defs30573" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="13.403878"
+     inkscape:cx="6.651654"
+     inkscape:cy="6.1551703"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     units="px"
+     inkscape:snap-page="true"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:object-nodes="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-center="true"
+     inkscape:snap-text-baseline="true"
+     showborder="false"
+     inkscape:window-width="1051"
+     inkscape:window-height="433"
+     inkscape:window-x="123"
+     inkscape:window-y="81"
+     inkscape:window-maximized="0"
+     inkscape:snap-global="false"
+     showguides="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4234" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata30576">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Klaus Staedtler</dc:title>
+          </cc:Agent>
+        </dc:creator>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-1036.3622)">
+    <g
+       id="g4259">
+      <rect
+         y="1036.3623"
+         x="0"
+         height="15.999915"
+         width="16"
+         id="rect30123-5"
+         style="opacity:0.3;fill:none;stroke:none;stroke-width:0.99999732" />
+      <path
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="path30137-9"
+         d="M 4.0230549,1046.3622 0,1042.3622 h 8 z"
+         style="fill:#f57900;fill-opacity:1;stroke:none;stroke-width:1.00000358" />
+      <path
+         transform="scale(-1)"
+         d="m -3.5552301,-1044.317 a 5.28018,5.5532227 0 0 1 -3.2777303,5.1384 5.28018,5.5532227 0 0 1 -5.7638156,-1.2411 5.28018,5.5532227 0 0 1 -1.093997,-6.0796 5.28018,5.5532227 0 0 1 4.9340443,-3.3703"
+         sodipodi:open="true"
+         sodipodi:end="4.7272908"
+         sodipodi:start="0"
+         sodipodi:ry="5.5532227"
+         sodipodi:rx="5.28018"
+         sodipodi:cy="-1044.317"
+         sodipodi:cx="-8.8354101"
+         sodipodi:type="arc"
+         id="path3953"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#f57900;stroke-width:1.9376756;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <g
+         id="g3857"
+         transform="matrix(0.66870518,0,0,0.66865961,0.44882138,358.5575)">
+        <circle
+           r="1.5625"
+           cy="13"
+           cx="2.96875"
+           style="fill:#0084c8;fill-opacity:1;stroke:#0084c8;stroke-width:0.77517074;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="path4537"
+           transform="matrix(1.9170741,0,0,1.9170741,-1.128608,1008.9448)" />
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,436 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg11300"
+   width="16"
+   height="16"
+   version="1.0"
+   viewBox="0 0 16 16"
+   sodipodi:docname="gimp-tool-rect-select.svg"
+   inkscape:version="0.92.4 (unknown)">
+  <defs
+     id="defs59" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1375"
+     inkscape:window-height="786"
+     id="namedview57"
+     showgrid="false"
+     inkscape:zoom="22.627417"
+     inkscape:cx="14.320362"
+     inkscape:cy="10.790171"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg11300" />
+  <metadata
+     id="metadata4">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Jakub Steiner</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:source>http://jimmac.musichall.cz</dc:source>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/2.0/" />
+        <dc:title></dc:title>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/2.0/">
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Reproduction" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Distribution" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/Notice" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/Attribution" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1">
+    <g
+       id="g26517">
+      <g
+         id="gimp-tool-rect-select"
+         transform="translate(-41,-217)">
+        <rect
+           id="rect74851"
+           x="41"
+           y="217"
+           width="16"
+           height="16"
+           style="fill:none" />
+        <rect
+           id="rect74853"
+           x="41"
+           y="220"
+           width="1"
+           height="1"
+           style="fill:#eeeeec" />
+        <rect
+           id="rect74855"
+           x="53"
+           y="220"
+           width="1"
+           height="1"
+           style="fill:#eeeeec" />
+        <rect
+           id="rect74857"
+           x="55"
+           y="220"
+           width="1"
+           height="1"
+           style="fill:#2d2d2d" />
+        <rect
+           id="rect74859"
+           x="41"
+           y="222"
+           width="1"
+           height="1"
+           style="fill:#2d2d2d" />
+        <rect
+           id="rect74861"
+           x="51"
+           y="220"
+           width="1"
+           height="1"
+           style="fill:#2d2d2d" />
+        <rect
+           id="rect74863"
+           x="43"
+           y="220"
+           width="1"
+           height="1"
+           style="fill:#2d2d2d" />
+        <rect
+           id="rect74865"
+           x="45"
+           y="220"
+           width="1"
+           height="1"
+           style="fill:#eeeeec" />
+        <rect
+           id="rect74867"
+           x="47"
+           y="220"
+           width="1"
+           height="1"
+           style="fill:#2d2d2d" />
+        <rect
+           id="rect74869"
+           x="49"
+           y="220"
+           width="1"
+           height="1"
+           style="fill:#eeeeec" />
+        <rect
+           id="rect74871"
+           x="41"
+           y="224"
+           width="1"
+           height="1"
+           style="fill:#eeeeec" />
+        <rect
+           id="rect74873"
+           x="41"
+           y="226"
+           width="1"
+           height="1"
+           style="fill:#2d2d2d" />
+        <rect
+           id="rect74875"
+           x="43"
+           y="230"
+           width="1"
+           height="1"
+           style="fill:#eeeeec" />
+        <rect
+           id="rect74877"
+           x="45"
+           y="230"
+           width="1"
+           height="1"
+           style="fill:#2d2d2d" />
+        <rect
+           id="rect74879"
+           x="47"
+           y="230"
+           width="1"
+           height="1"
+           style="fill:#eeeeec" />
+        <rect
+           id="rect74881"
+           x="49"
+           y="230"
+           width="1"
+           height="1"
+           style="fill:#2d2d2d" />
+        <rect
+           id="rect74883"
+           x="51"
+           y="230"
+           width="1"
+           height="1"
+           style="fill:#eeeeec" />
+        <rect
+           id="rect74885"
+           x="53"
+           y="230"
+           width="1"
+           height="1"
+           style="fill:#2d2d2d" />
+        <rect
+           id="rect74887"
+           x="55"
+           y="230"
+           width="1"
+           height="1"
+           style="fill:#eeeeec" />
+        <rect
+           id="rect74889"
+           x="55"
+           y="228"
+           width="1"
+           height="1"
+           style="fill:#2d2d2d" />
+        <rect
+           id="rect74891"
+           x="55"
+           y="226"
+           width="1"
+           height="1"
+           style="fill:#eeeeec" />
+        <rect
+           id="rect74893"
+           x="55"
+           y="224"
+           width="1"
+           height="1"
+           style="fill:#2d2d2d" />
+        <rect
+           id="rect74895"
+           x="55"
+           y="222"
+           width="1"
+           height="1"
+           style="fill:#eeeeec" />
+        <rect
+           id="rect74897"
+           x="43"
+           y="222"
+           width="11"
+           height="7"
+           style="fill:#d3d7cf" />
+        <rect
+           id="rect74899"
+           x="41"
+           y="228"
+           width="1"
+           height="1"
+           style="fill:#eeeeec" />
+        <rect
+           id="rect74901"
+           x="41"
+           y="230"
+           width="1"
+           height="1"
+           style="fill:#2d2d2d" />
+      </g>
+      <rect
+         id="rect74853-5"
+         x="3"
+         y="3"
+         width="1"
+         height="1"
+         style="fill:#eeeeec;fill-opacity:1" />
+      <rect
+         id="rect74853-5-1"
+         x="1"
+         y="3"
+         width="1"
+         height="1"
+         style="fill:#2d2d2d" />
+      <rect
+         id="rect74853-5-0"
+         x="5"
+         y="3"
+         width="1"
+         height="1"
+         style="fill:#2e3436" />
+      <rect
+         id="rect74853-5-4"
+         x="7"
+         y="3"
+         width="1"
+         height="1"
+         style="fill:#eeeeec;fill-opacity:1" />
+      <rect
+         id="rect74853-5-2"
+         x="9"
+         y="3"
+         width="1"
+         height="1"
+         style="fill:#2e3436" />
+      <rect
+         id="rect74853-5-9"
+         x="11"
+         y="3"
+         width="1"
+         height="1"
+         style="fill:#eeeeec;fill-opacity:1" />
+      <rect
+         id="rect74853-5-8"
+         x="13"
+         y="3"
+         width="1"
+         height="1"
+         style="fill:#2e3436" />
+      <rect
+         id="rect74853-5-12"
+         y="12"
+         width="1"
+         height="1"
+         style="fill:#eeeeec;fill-opacity:1"
+         x="0" />
+      <rect
+         id="rect74853-5-12-0"
+         y="10"
+         width="1"
+         height="1"
+         style="fill:#2e3436"
+         x="0" />
+      <rect
+         id="rect74853-5-12-3"
+         y="8"
+         width="1"
+         height="1"
+         style="fill:#eeeeec;fill-opacity:1"
+         x="0" />
+      <rect
+         id="rect74853-5-12-02"
+         y="6"
+         width="1"
+         height="1"
+         style="fill:#2e3436"
+         x="0" />
+      <rect
+         id="rect74853-5-12-2"
+         y="4"
+         width="1"
+         height="1"
+         style="fill:#eeeeec;fill-opacity:1"
+         x="0" />
+      <rect
+         id="rect74853-5-12-37"
+         x="1"
+         y="13"
+         width="1"
+         height="1"
+         style="fill:#2e3436" />
+      <rect
+         id="rect74853-5-12-37-4"
+         x="3"
+         y="13"
+         width="1"
+         height="1"
+         style="fill:#eeeeec;fill-opacity:1" />
+      <rect
+         id="rect74853-5-12-37-0"
+         x="5"
+         y="13"
+         width="1"
+         height="1"
+         style="fill:#2e3436" />
+      <rect
+         id="rect74853-5-12-37-7"
+         x="7"
+         y="13"
+         width="1"
+         height="1"
+         style="fill:#eeeeec;fill-opacity:1" />
+      <rect
+         id="rect74853-5-12-37-3"
+         x="9"
+         y="13"
+         width="1"
+         height="1"
+         style="fill:#2e3436" />
+      <rect
+         id="rect74853-5-12-37-48"
+         x="11"
+         y="13"
+         width="1"
+         height="1"
+         style="fill:#eeeeec;fill-opacity:1" />
+      <rect
+         id="rect74853-5-12-37-03"
+         x="13"
+         y="13"
+         width="1"
+         height="1"
+         style="fill:#2e3436" />
+      <rect
+         id="rect74853-5-12-37-1"
+         x="14"
+         y="12"
+         width="1"
+         height="1"
+         style="fill:#eeeeec;fill-opacity:1" />
+      <rect
+         id="rect74853-5-12-37-1-1"
+         x="14"
+         y="10"
+         width="1"
+         height="1"
+         style="fill:#2e3436" />
+      <rect
+         id="rect74853-5-12-37-1-0"
+         x="14"
+         y="8"
+         width="1"
+         height="1"
+         style="fill:#eeeeec;fill-opacity:1" />
+      <rect
+         id="rect74853-5-12-37-1-3"
+         x="14"
+         y="6"
+         width="1"
+         height="1"
+         style="fill:#2e3436" />
+      <rect
+         id="rect74853-5-12-37-1-01"
+         x="14"
+         y="4"
+         width="1"
+         height="1"
+         style="fill:#eeeeec;fill-opacity:1" />
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg30571"
+   width="16"
+   height="16"
+   version="1.1"
+   viewBox="0 0 16 16"
+   sodipodi:docname="gimp-histogram-linear.svg"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06">
+  <defs
+     id="defs19" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="919"
+     inkscape:window-height="539"
+     id="namedview17"
+     showgrid="false"
+     inkscape:zoom="14.75"
+     inkscape:cx="8"
+     inkscape:cy="8"
+     inkscape:window-x="276"
+     inkscape:window-y="13"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg30571" />
+  <metadata
+     id="metadata30576">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Klaus Staedtler</dc:title>
+          </cc:Agent>
+        </dc:creator>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     transform="translate(0 -1036.4)">
+    <g
+       id="g4268">
+      <g
+         id="g4016">
+        <g
+           id="g3993"
+           transform="matrix(.99616 0 0 1 .061318 -.024821)">
+          <g
+             id="g10052">
+            <g
+               id="g3964">
+              <rect
+                 id="rect3944"
+                 transform="scale(-1)"
+                 x="-15.805"
+                 y="-1052.2"
+                 width="15.61"
+                 height="15.61"
+                 style="fill:#fff;stroke-linecap:square;stroke-linejoin:round;stroke-width:.39024;stroke:#fff" />
+              <g
+                 id="g4166"
+                 transform="matrix(1 0 0 1.0024 0 -1.3609)">
+                <g
+                   id="g4096"
+                   transform="matrix(1 0 0 1.1202 -2.2854 -125.61)">
+                  <g
+                     id="g4040" />
+                </g>
+              </g>
+            </g>
+          </g>
+          <rect
+             id="rect3966-7"
+             x="-.061555"
+             y="1036.4"
+             width="16.062"
+             height="12"
+             style="fill:#666666" />
+        </g>
+      </g>
+      <path
+         id="rect5422-9"
+         d="m0 1048.4v4h16v-4h-1.1429v2.6667h-6.8571v-2.6667h-1.1429v2.6667h-5.7143v-2.6667z"
+         style="stroke-width:1.2344;fill:#2d2d2d" />
+      <path
+         id="path5449-8"
+         d="m0 1048.4 0.83333-1.1687 0.5-1.0312h1.3333l1.3333-8.8001h1.3333l1.3333 4.4h1.3333l1.3333 2.1999 1.3333 2.2002 1.3333-2.2002v-2.1999l1.3333 2.1999 1.3333 2.2002 1.3333 0.8938v1.3061z"
+         style="fill:#0084c8;stroke-width:1.7127" />
+    </g>
+  </g>
+</svg>

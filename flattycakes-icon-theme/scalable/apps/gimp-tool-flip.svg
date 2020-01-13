@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg11300"
+   width="16"
+   height="16"
+   version="1.0"
+   viewBox="0 0 16 16"
+   sodipodi:docname="gimp-tool-flip.svg"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06">
+  <defs
+     id="defs17" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="902"
+     inkscape:window-height="569"
+     id="namedview15"
+     showgrid="false"
+     inkscape:zoom="14.75"
+     inkscape:cx="11.03327"
+     inkscape:cy="10.545491"
+     inkscape:window-x="186"
+     inkscape:window-y="95"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg11300" />
+  <metadata
+     id="metadata4">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Jakub Steiner</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:source>http://jimmac.musichall.cz</dc:source>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/2.0/" />
+        <dc:title />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/2.0/">
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Reproduction" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Distribution" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/Notice" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/Attribution" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1">
+    <g
+       id="g4266">
+      <g
+         id="g4246"
+         transform="matrix(1.0001 0 0 .99988 -5.2338e-5 .0017928)">
+        <g
+           id="g4265-7"
+           transform="matrix(-.99979 0 0 1.0033 15.998 -.02763)"
+           style="fill:#729fcf">
+          <path
+             id="rect4251-5"
+             d="m0.47416 0.5 7.0919 1.3941 0.040175 12.212-7.132 1.3941z"
+             style="fill:#729fcf;paint-order:stroke fill markers;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:0;stroke-width:0.94831;stroke:#729fcf;stroke-opacity:1" />
+          <path
+             id="path8347-1-5"
+             d="m4.1898 7.2527h2.1848v1.7494h-2.1848v1.2496h-0.72827l-2.1113-2.2492 2.1113-1.9993h0.72827z"
+             style="fill-rule:evenodd;fill:#fff;stroke-width:0.497;stroke:#729fcf;stroke-opacity:1" />
+        </g>
+        <g
+           id="g4265">
+          <rect
+             id="rect4251"
+             x=".47416"
+             y="1.9742"
+             width="7.0517"
+             height="12.052"
+             style="fill:#3465a4;paint-order:stroke fill markers;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:0;stroke-width:0.94831;stroke:#3465a4;stroke-opacity:1" />
+          <path
+             id="path8347-1"
+             d="m4.1898 7.2527h2.1848v1.7494h-2.1848v1.2496h-0.72827l-2.1113-2.2492 2.1113-1.9993h0.72827z"
+             style="fill-rule:evenodd;fill:#fff;stroke-width:0.49673;stroke:#3465a4;stroke-opacity:1" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

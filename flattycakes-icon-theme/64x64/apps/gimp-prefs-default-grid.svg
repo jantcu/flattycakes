@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg11300"
+   width="16"
+   height="16"
+   version="1.0"
+   viewBox="0 0 16 16"
+   sodipodi:docname="gimp-prefs-default-grid.svg"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06">
+  <defs
+     id="defs51" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="948"
+     inkscape:window-height="619"
+     id="namedview49"
+     showgrid="false"
+     inkscape:zoom="41.7193"
+     inkscape:cx="8.9543633"
+     inkscape:cy="7.9217906"
+     inkscape:window-x="306"
+     inkscape:window-y="92"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg11300" />
+  <metadata
+     id="metadata4">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Jakub Steiner</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:source>http://jimmac.musichall.cz</dc:source>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/2.0/" />
+        <dc:title />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/2.0/">
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Reproduction" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Distribution" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/Notice" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/Attribution" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1">
+    <g
+       id="g3765"
+       transform="matrix(.38995 0 0 .39144 -6.9988 -15.069)">
+      <g
+         id="g4268">
+        <g
+           id="g4415"
+           transform="matrix(2.5644 0 0 2.5547 17.949 38.499)">
+          <rect
+             id="rect1908-4"
+             x=".19494"
+             y=".19495"
+             width="15.609"
+             height="15.609"
+             rx=".48741"
+             ry=".48932"
+             style="color:#000000;fill:#999999;stroke-width:0.39069;stroke:#999999;fill-opacity:1;stroke-opacity:1" />
+          <g
+             id="g3447-2"
+             transform="matrix(.38993 0 0 .39146 -1.1698 -.83262)">
+            <g
+               id="g3450-7"
+               transform="matrix(1.3591 0 0 1.3664 -13.987 -15.023)">
+              <ellipse
+                 id="path3069-1"
+                 transform="matrix(1.6 0 0 1.3333 5.9625 4.4167)"
+                 cx="10.375"
+                 cy="7.5625"
+                 rx=".3125"
+                 ry=".375"
+                 style="color:#000000;fill:#2d2d2d" />
+              <ellipse
+                 id="path3071-9"
+                 transform="matrix(1.6 0 0 1.3333 5.9625 6.4167)"
+                 cx="10.375"
+                 cy="7.5625"
+                 rx=".3125"
+                 ry=".375"
+                 style="color:#000000;fill:#2d2d2d" />
+              <ellipse
+                 id="path3073-8"
+                 transform="matrix(1.6 0 0 1.3333 5.9625 8.4167)"
+                 cx="10.375"
+                 cy="7.5625"
+                 rx=".3125"
+                 ry=".375"
+                 style="color:#000000;fill:#2d2d2d" />
+              <ellipse
+                 id="path3089-9"
+                 transform="matrix(1.6 0 0 1.3333 5.9625 24.417)"
+                 cx="10.375"
+                 cy="7.5625"
+                 rx=".3125"
+                 ry=".375"
+                 style="color:#000000;fill:#2d2d2d" />
+              <ellipse
+                 id="path3091-7"
+                 transform="matrix(1.6 0 0 1.3333 5.9625 26.417)"
+                 cx="10.375"
+                 cy="7.5625"
+                 rx=".3125"
+                 ry=".375"
+                 style="color:#000000;fill:#2d2d2d" />
+              <ellipse
+                 id="path3093-7-5"
+                 transform="matrix(1.6 0 0 1.3333 5.9625 28.417)"
+                 cx="10.375"
+                 cy="7.5625"
+                 rx=".3125"
+                 ry=".375"
+                 style="color:#000000;fill:#2d2d2d" />
+              <ellipse
+                 id="path3105-4"
+                 transform="matrix(1.6 0 0 1.3333 15.962 4.4167)"
+                 cx="10.375"
+                 cy="7.5625"
+                 rx=".3125"
+                 ry=".375"
+                 style="color:#000000;fill:#2d2d2d" />
+              <ellipse
+                 id="path3107-1"
+                 transform="matrix(1.6 0 0 1.3333 15.962 6.4167)"
+                 cx="10.375"
+                 cy="7.5625"
+                 rx=".3125"
+                 ry=".375"
+                 style="color:#000000;fill:#2d2d2d" />
+              <ellipse
+                 id="path3109-6"
+                 transform="matrix(1.6 0 0 1.3333 15.962 8.4167)"
+                 cx="10.375"
+                 cy="7.5625"
+                 rx=".3125"
+                 ry=".375"
+                 style="color:#000000;fill:#2d2d2d" />
+              <ellipse
+                 id="path3125-9"
+                 transform="matrix(1.6 0 0 1.3333 15.962 24.417)"
+                 cx="10.375"
+                 cy="7.5625"
+                 rx=".3125"
+                 ry=".375"
+                 style="color:#000000;fill:#2d2d2d" />
+              <ellipse
+                 id="path3127-2"
+                 transform="matrix(1.6 0 0 1.3333 15.962 26.417)"
+                 cx="10.375"
+                 cy="7.5625"
+                 rx=".3125"
+                 ry=".375"
+                 style="color:#000000;fill:#2d2d2d" />
+              <ellipse
+                 id="path3129-9"
+                 transform="matrix(1.6 0 0 1.3333 15.962 28.417)"
+                 cx="10.375"
+                 cy="7.5625"
+                 rx=".3125"
+                 ry=".375"
+                 style="color:#000000;fill:#2d2d2d" />
+              <ellipse
+                 id="path3261-8"
+                 transform="matrix(0 1.6 -1.3333 0 50.708 6.025)"
+                 cx="10.375"
+                 cy="7.5625"
+                 rx=".3125"
+                 ry=".375"
+                 style="color:#000000;fill:#2d2d2d" />
+              <ellipse
+                 id="path3263-6"
+                 transform="matrix(0 1.6 -1.3333 0 48.708 6.025)"
+                 cx="10.375"
+                 cy="7.5625"
+                 rx=".3125"
+                 ry=".375"
+                 style="color:#000000;fill:#2d2d2d" />
+              <ellipse
+                 id="path3265-5"
+                 transform="matrix(0 1.6 -1.3333 0 46.708 6.025)"
+                 cx="10.375"
+                 cy="7.5625"
+                 rx=".3125"
+                 ry=".375"
+                 style="color:#000000;fill:#2d2d2d" />
+              <ellipse
+                 id="path3281-2"
+                 transform="matrix(0 1.6 -1.3333 0 30.708 6.025)"
+                 cx="10.375"
+                 cy="7.5625"
+                 rx=".3125"
+                 ry=".375"
+                 style="color:#000000;fill:#2d2d2d" />
+              <ellipse
+                 id="path3283-6"
+                 transform="matrix(0 1.6 -1.3333 0 28.708 6.025)"
+                 cx="10.375"
+                 cy="7.5625"
+                 rx=".3125"
+                 ry=".375"
+                 style="color:#000000;fill:#2d2d2d" />
+              <ellipse
+                 id="path3285-9"
+                 transform="matrix(0 1.6 -1.3333 0 26.708 6.025)"
+                 cx="10.375"
+                 cy="7.5625"
+                 rx=".3125"
+                 ry=".375"
+                 style="color:#000000;fill:#2d2d2d" />
+              <ellipse
+                 id="path3287-3"
+                 transform="matrix(0 1.6 -1.3333 0 24.708 6.025)"
+                 cx="10.375"
+                 cy="7.5625"
+                 rx=".3125"
+                 ry=".375"
+                 style="color:#000000;fill:#2d2d2d" />
+              <ellipse
+                 id="path3297-5"
+                 transform="matrix(0 1.6 -1.3333 0 50.708 16.025)"
+                 cx="10.375"
+                 cy="7.5625"
+                 rx=".3125"
+                 ry=".375"
+                 style="color:#000000;fill:#2d2d2d" />
+              <ellipse
+                 id="path3299-1"
+                 transform="matrix(0 1.6 -1.3333 0 48.708 16.025)"
+                 cx="10.375"
+                 cy="7.5625"
+                 rx=".3125"
+                 ry=".375"
+                 style="color:#000000;fill:#2d2d2d" />
+              <ellipse
+                 id="path3301-3"
+                 transform="matrix(0 1.6 -1.3333 0 46.708 16.025)"
+                 cx="10.375"
+                 cy="7.5625"
+                 rx=".3125"
+                 ry=".375"
+                 style="color:#000000;fill:#2d2d2d" />
+              <ellipse
+                 id="path3317-2"
+                 transform="matrix(0 1.6 -1.3333 0 30.708 16.025)"
+                 cx="10.375"
+                 cy="7.5625"
+                 rx=".3125"
+                 ry=".375"
+                 style="color:#000000;fill:#2d2d2d" />
+              <ellipse
+                 id="path3319-3"
+                 transform="matrix(0 1.6 -1.3333 0 28.708 16.025)"
+                 cx="10.375"
+                 cy="7.5625"
+                 rx=".3125"
+                 ry=".375"
+                 style="color:#000000;fill:#2d2d2d" />
+              <ellipse
+                 id="path3321-5"
+                 transform="matrix(0 1.6 -1.3333 0 26.708 16.025)"
+                 cx="10.375"
+                 cy="7.5625"
+                 rx=".3125"
+                 ry=".375"
+                 style="color:#000000;fill:#2d2d2d" />
+              <ellipse
+                 id="path3323-8"
+                 transform="matrix(0 1.6 -1.3333 0 24.708 16.025)"
+                 cx="10.375"
+                 cy="7.5625"
+                 rx=".3125"
+                 ry=".375"
+                 style="color:#000000;fill:#2d2d2d" />
+              <ellipse
+                 id="path3443-4"
+                 transform="matrix(1.6 0 0 1.3333 5.9625 30.417)"
+                 cx="10.375"
+                 cy="7.5625"
+                 rx=".3125"
+                 ry=".375"
+                 style="color:#000000;fill:#2d2d2d" />
+              <ellipse
+                 id="path3445-0"
+                 transform="matrix(1.6 0 0 1.3333 15.962 30.417)"
+                 cx="10.375"
+                 cy="7.5625"
+                 rx=".3125"
+                 ry=".375"
+                 style="color:#000000;fill:#2d2d2d" />
+            </g>
+          </g>
+          <rect
+             id="rect3556-0"
+             x=".58487"
+             y=".53748"
+             width="14.817"
+             height="14.875"
+             rx=".21169"
+             ry=".21252"
+             style="color:#000000;fill:none;opacity:.86082;stroke-opacity:0" />
+        </g>
+        <rect
+           id="rect3566"
+           x="32.037"
+           y="52.538"
+           width="12.853"
+           height="12.795"
+           rx=".69345"
+           ry=".69461"
+           style="color:#000000;fill:none;stroke-width:2.5336;stroke:#005c94;stroke-opacity:1" />
+        <g
+           id="g3445"
+           transform="matrix(.99995 0 0 1.3713 22.865 34.815)">
+          <path
+             id="path3568"
+             d="m25 13.84v8.16"
+             style="color:#000000;fill:#005c94;stroke-width:1.0931;stroke:#005c94;stroke-opacity:1" />
+          <path
+             id="path3761"
+             d="m25 12-1.7071 2.24h3.4142z"
+             style="color:#000000;fill:#005c94" />
+          <path
+             id="path3763"
+             d="m25 23.178-1.7071-2.24h3.4142z"
+             style="color:#000000;fill:#005c94" />
+        </g>
+        <g
+           id="g3445-9"
+           transform="matrix(0 .99625 -1.3766 0 62.676 24.664)">
+          <path
+             id="path3568-3"
+             d="m25 13.84v8.16"
+             style="color:#000000;fill:#204a87;stroke-width:1.0931;stroke:#005c94;stroke-opacity:1" />
+          <path
+             id="path3761-0"
+             d="m25 12-1.7071 2.24h3.4142z"
+             style="color:#000000;fill:#005c94;fill-opacity:1" />
+          <path
+             id="path3763-2"
+             d="m25 23.178-1.7071-2.24h3.4142z"
+             style="color:#000000;fill:#005c94;fill-opacity:1" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

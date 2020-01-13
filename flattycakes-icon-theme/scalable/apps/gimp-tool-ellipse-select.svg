@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg11300"
+   width="16"
+   height="16"
+   version="1.0"
+   viewBox="0 0 16 16"
+   sodipodi:docname="gimp-tool-ellipse-select.svg"
+   inkscape:version="0.92.4 (unknown)">
+  <defs
+     id="defs32" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1375"
+     inkscape:window-height="786"
+     id="namedview30"
+     showgrid="false"
+     inkscape:zoom="26.767168"
+     inkscape:cx="12.208785"
+     inkscape:cy="2.2070506"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g4083" />
+  <metadata
+     id="metadata4">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Jakub Steiner</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:source>http://jimmac.musichall.cz</dc:source>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/2.0/" />
+        <dc:title></dc:title>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/2.0/">
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Reproduction" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Distribution" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/Notice" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/Attribution" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1">
+    <g
+       id="g4083">
+      <ellipse
+         id="path4051-5"
+         cx="8.0127001"
+         cy="8.1459999"
+         rx="7.5109"
+         ry="5.3884001"
+         style="display:inline;fill:none;stroke:#2d2d2d;stroke-width:0.95368999;stroke-opacity:1" />
+      <rect
+         id="rect4032-1"
+         transform="matrix(0.99995,0.0098968,-0.0098655,0.99995,0,0)"
+         x="7.371294"
+         y="2.0852277"
+         width="0.99867529"
+         height="1.1120722"
+         style="display:inline;fill:#ffffff" />
+      <rect
+         id="rect4032-8-9-5"
+         x="10.025132"
+         y="12.395097"
+         width="1.2735474"
+         height="1.0308135"
+         style="fill:#ffffff"
+         transform="rotate(-26.024633)" />
+      <rect
+         id="rect4032-8-9-7"
+         y="7.9023824"
+         width="1.3556179"
+         height="1.1699119"
+         style="fill:#ffffff"
+         x="-4.2350016"
+         transform="rotate(-27.052458)" />
+      <rect
+         id="rect4032-8-9-5-0"
+         x="7.5046"
+         y="13.03"
+         width="0.99756998"
+         height="1"
+         style="fill:#ffffff" />
+      <ellipse
+         id="path4051"
+         cx="8"
+         cy="8.0500002"
+         rx="6.4018998"
+         ry="4.1518998"
+         style="fill:#d3d7cf;stroke:none;stroke-width:0.19612999;stroke-opacity:1" />
+      <rect
+         id="rect4032"
+         transform="matrix(0.65052636,-0.75948368,0.7584589,0.65172087,0,0)"
+         x="-3.7759876"
+         y="3.9943724"
+         width="1.4281148"
+         height="1.2709645"
+         style="fill:#ffffff" />
+      <rect
+         id="rect4032-5"
+         transform="matrix(0.89641,-0.44323,0.4421,0.89697,0,0)"
+         x="1.5443"
+         y="4.5015998"
+         width="0.99787998"
+         height="0.99969"
+         style="fill:#ffffff" />
+      <rect
+         id="rect4032-10"
+         transform="matrix(0.48099,-0.87672,0.87608,0.48216,0,0)"
+         x="-5.3842001"
+         y="3.3761001"
+         width="0.99878001"
+         height="0.99878001"
+         style="fill:#ffffff" />
+      <rect
+         id="rect4032-5-6"
+         transform="matrix(0.93321658,-0.35931438,0.35870092,0.93345254,0,0)"
+         x="2.6483288"
+         y="4.1780071"
+         width="1.3759089"
+         height="1.2656108"
+         style="fill:#ffffff" />
+      <rect
+         id="rect4032-8"
+         transform="matrix(0.86213903,0.50667178,0.5053208,-0.86293157,0,0)"
+         x="8.4370928"
+         y="-9.4975328"
+         width="1.1150026"
+         height="1.132817"
+         style="fill:#ffffff" />
+      <rect
+         id="rect4032-5-4"
+         transform="matrix(0.89684,0.44236,0.44124,-0.89739,0,0)"
+         x="8.7393999"
+         y="-10.113"
+         width="0.99787998"
+         height="0.99969"
+         style="fill:#ffffff" />
+      <rect
+         id="rect4032-10-4"
+         transform="matrix(0.48183,0.87626,0.87562,-0.48301,0,0)"
+         x="8.8760996"
+         y="-4.4658999"
+         width="0.99878001"
+         height="0.99879003"
+         style="fill:#ffffff" />
+      <rect
+         id="rect4032-5-6-3"
+         transform="matrix(0.99905613,-0.04343799,-0.04409249,-0.99902745,0,0)"
+         x="5.8412895"
+         y="-14.424902"
+         width="1.1430938"
+         height="1.3301646"
+         style="fill:#ffffff;stroke-width:0.99999827" />
+      <rect
+         id="rect4032-9"
+         transform="matrix(-0.85871219,-0.51245816,-0.51112167,0.85950837,0,0)"
+         x="-13.460154"
+         y="-3.7062848"
+         width="1.1531106"
+         height="1.2873138"
+         style="fill:#ffffff" />
+      <rect
+         id="rect4032-5-5"
+         transform="matrix(-0.90823,-0.41848,-0.41738,0.90873,0,0)"
+         x="-12.706"
+         y="-2.2602999"
+         width="0.99785"
+         height="0.99971998"
+         style="fill:#ffffff" />
+      <rect
+         id="rect4032-10-6"
+         transform="matrix(-0.50481,-0.86323,-0.86253,0.506,0,0)"
+         x="-13.217"
+         y="-10.317"
+         width="0.99874997"
+         height="0.99882001"
+         style="fill:#ffffff" />
+      <rect
+         id="rect4032-5-6-5"
+         transform="matrix(-0.99999919,0.00127232,0.00186265,0.99999827,0,0)"
+         x="-9.2927752"
+         y="1.954361"
+         width="1.0922039"
+         height="1.6349287"
+         style="fill:#ffffff;stroke-width:1.00000191"
+         inkscape:transform-center-x="-0.0186796"
+         inkscape:transform-center-y="0.056038801" />
+      <rect
+         id="rect4032-86"
+         transform="matrix(-0.58371171,0.81196098,-0.81104891,-0.58497834,0,0)"
+         x="-0.23966426"
+         y="-18.745359"
+         width="1.260491"
+         height="1.3633358"
+         style="fill:#ffffff;stroke-width:0.9999969" />
+      <rect
+         id="rect4032-5-2"
+         transform="matrix(-0.9003,0.43527,-0.43415,-0.90084,0,0)"
+         x="-5.6176219"
+         y="-17.274538"
+         width="0.93299192"
+         height="1.1342387"
+         style="fill:#ffffff" />
+      <rect
+         id="rect4032-10-8"
+         transform="matrix(-0.48872,0.87244,-0.87178,-0.4899,0,0)"
+         x="1.0461"
+         y="-18.517"
+         width="0.99877"
+         height="0.99879998"
+         style="fill:#ffffff" />
+      <rect
+         id="rect4032-5-6-39"
+         transform="matrix(-0.90375879,0.42804212,-0.42746952,-0.90402976,0,0)"
+         x="-5.0379391"
+         y="-17.147366"
+         width="1.2108914"
+         height="1.2609862"
+         style="display:inline;fill:#ffffff" />
+    </g>
+  </g>
+</svg>

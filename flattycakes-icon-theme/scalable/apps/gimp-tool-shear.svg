@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg11300"
+   width="16"
+   height="16"
+   version="1.0"
+   viewBox="0 0 16 16"
+   sodipodi:docname="gimp-tool-shear.svg"
+   inkscape:version="0.92.4 (unknown)">
+  <defs
+     id="defs13" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1375"
+     inkscape:window-height="786"
+     id="namedview11"
+     showgrid="false"
+     inkscape:zoom="37.854492"
+     inkscape:cx="8"
+     inkscape:cy="9.0566778"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg11300" />
+  <metadata
+     id="metadata4">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Jakub Steiner</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:source>http://jimmac.musichall.cz</dc:source>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/2.0/" />
+        <dc:title></dc:title>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/2.0/">
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Reproduction" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Distribution" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/Notice" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/Attribution" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1">
+    <g
+       id="g4040">
+      <rect
+         id="rect7753"
+         x="2.4166999"
+         y="0.41666999"
+         width="9.1667004"
+         height="9.1667004"
+         style="fill:#204a87;fill-rule:evenodd;stroke:#204a87;stroke-width:0.83332998;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:0;stroke-opacity:1;fill-opacity:1" />
+      <rect
+         id="rect8339"
+         x="3.2809999"
+         y="1.0607001"
+         width="7.4352002"
+         height="7.6831002"
+         style="fill:none;stroke:none;stroke-width:0.83990002;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:0;stroke-opacity:0.2" />
+      <rect
+         id="rect8343"
+         transform="matrix(1,0,0.3433,0.93923,0,0)"
+         x="2.3088"
+         y="0.43257999"
+         width="8.9961996"
+         height="11.911"
+         style="opacity:1;fill:#0084c8;fill-rule:evenodd;stroke:#0084c8;stroke-width:0.86513001;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:0;stroke-opacity:1" />
+      <rect
+         id="rect8345"
+         transform="matrix(1,0,0.34302,0.93933,0,0)"
+         x="3.1559"
+         y="1.1936001"
+         width="7.3397002"
+         height="10.318"
+         style="opacity:0.5;fill:none;stroke:#0084c8;stroke-width:0.85940999;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:0;stroke-opacity:1" />
+      <path
+         id="path8347"
+         d="M 1.9972,12.724 H 0.2503 v 1.4164 h 1.7469 v 1.4164 L 5.5065,13.4322 1.9972,11.4308 Z"
+         style="fill:#005c94;fill-rule:evenodd;stroke:none;stroke-width:0.50003999"
+         inkscape:connector-curvature="0" />
+    </g>
+  </g>
+</svg>

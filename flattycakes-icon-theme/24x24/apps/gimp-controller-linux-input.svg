@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2"
+   width="16"
+   height="16"
+   version="1.1"
+   viewBox="0 0 16 16"
+   sodipodi:docname="gimp-controller-linux-input.svg"
+   inkscape:version="0.92.4 (unknown)">
+  <defs
+     id="defs17" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1375"
+     inkscape:window-height="786"
+     id="namedview15"
+     showgrid="false"
+     inkscape:zoom="45.254834"
+     inkscape:cx="7.7634679"
+     inkscape:cy="6.7120548"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <metadata
+     id="metadata90">
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+        <dc:contributor>
+          <cc:Agent>
+            <dc:title>many unknown and unnamed, Andrew Chadwick, Alexandre Prokoudine, Aryeom Han, Benoit Touchette, Jakub Steiner, Jehan, Johannes Matschke, Kevin Payne, Klaus Staedtler, Marek Dvoroznak, Michael Natterer</dc:title>
+          </cc:Agent>
+        </dc:contributor>
+        <dc:description>Enhanced, extended tango-art-libre for GIMP</dc:description>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="stock"
+     transform="matrix(1,0,0,1.005,-158.39,3.724)">
+    <g
+       id="gimp-controller-linux-input"
+       transform="translate(158.39,-3.7051)">
+      <g
+         id="g4209-7"
+         transform="matrix(1,0,0,0.98113,0,0.14717)">
+        <path
+           id="path14-0-6"
+           d="M 0.40603,15.84 C 0.40263,14.7002 1.27525,13.815 1.57963,12.7501 1.90637,11.6328 2.51485,10.6446 3.24753,9.7497 3.86134,8.82132 4.79073,7.9337 4.41323,6.7164 4.40513,5.1126 4.09847,3.4621 4.54207,1.894 c 0.34676,-1.3094 1.7598,-1.9981 3.0398,-1.8808 1.7294,-0.1297 3.616,1.0441 3.759,2.8777 0.25335,1.6581 0.0089,3.483 0.99911,4.944 0.89807,1.8874 2.6291,3.3115 3.1291,5.3986 0.21656,1.0436 -0.88538,1.5693 -1.2612,2.6189 -4.5909,0.04711 -1.8934,0.14621 -13.802,-0.01232 z"
+           style="fill:none;stroke:none;stroke-width:0.30000001"
+           inkscape:connector-curvature="0" />
+        <rect
+           id="rect4133"
+           width="16"
+           height="16"
+           style="opacity:0;stroke-width:0.37483001"
+           x="0"
+           y="0" />
+        <g
+           id="g4131"
+           transform="matrix(0.49487,0,0,0.49487,17.965,35.719)">
+          <g
+             id="g12"
+             transform="matrix(0.081482,0,0,0.081482,-61.313,-96.139)"
+             style="fill:#f8bf11">
+            <path
+               id="path6-3"
+               transform="matrix(0.55569,0,0,0.55569,249.67,292.48)"
+               d="m 552,300.4 c 0,25.1 -29.9,30.4 -44.4,39.4 -13.5,12.5 -91.2,47.8 -111.8,47.8 -33.1,-7 -73.4,-56.4 -78.6,-89.2 0,-19.1 24.3,-34.4 37.9,-46.9 13.5,-12.5 29.1,-24.3 55.7,-19.3 20.6,0 52.8,9.8 66.3,22.3 27,9 74.9,14.8 74.9,45.9 z"
+               inkscape:connector-curvature="0" />
+          </g>
+          <g
+             id="g18"
+             transform="matrix(0.081482,0,0,0.081482,-61.313,-96.139)">
+            <g
+               id="g16-3"
+               transform="matrix(0.55569,0,0,0.55569,249.67,292.48)">
+              <path
+                 id="path14-05"
+                 d="m 121.18,709.76 c -0.1499,-50.869 38.792,-90.372 52.375,-137.9 14.582,-49.864 41.738,-93.967 74.436,-133.9 27.394,-41.432 68.869,-81.047 52.025,-135.37 -0.36243,-71.577 -14.047,-145.23 5.75,-215.22 15.476,-58.438 78.538,-89.173 135.66,-83.938 77.18,-5.7885 161.38,46.597 167.76,128.43 11.307,73.999 0.39736,155.44 44.589,220.64 40.08,84.232 117.34,147.79 139.65,240.93 9.6647,46.574 -39.513,70.036 -56.284,116.88 -204.89,2.1026 -84.5,6.525 -615.96,-0.55 z m 531.46,7.075 c 19.319,-29.41 85.727,6.145 84.5,-6.525 -54.312,-15.788 -7.5458,-67.653 -19.406,-106.92 -6.3586,-52.009 -33.88,-100.96 -69.608,-138.54 -31.94,-15.721 33.515,55.522 37.113,78.625 19.72,45.599 35.481,106.71 2.7946,149.81 -26.612,21.208 -51.138,-3.3603 -42.907,-30.956 1.6322,-51.32 -4.3683,-103.99 -33.904,-147.63 -29.704,-44.277 -28.169,-102.75 -65.188,-143.22 -32.792,-36.026 25.369,-105.79 -47.813,-108.58 -60.54,0.0115 -41.554,-105.9 12.018,-66.002 23.376,15.217 -18.578,71.122 25.862,55 18.901,-42.457 -7.4683,-115.17 -64.062,-100.84 -56.739,10.644 -3.8361,109.77 -70.138,80.038 -16.192,-16.01 -14.112,-103.22 -66.362,-66.05 -27.236,14.574 -13.483,121.92 14.462,80.65 -47.327,-18.916 5.1817,-93.099 25.118,-35.981 20.28,46.327 -99.582,69.002 -31.575,107.88 34.369,41.637 95.606,8.8202 137.72,-4.2256 15.27,-12.277 59.053,-26.569 25.349,-0.66816 -45.151,13.477 -87.162,45.397 -136.52,36.094 -38.352,-0.73026 34.064,42.756 50.017,22.774 29.912,-1.2484 75.865,-49.972 93.6,-28.608 -38.116,19.697 -72.84,48.462 -109.61,69.783 -44.212,24.079 -70.439,-99.759 -84.597,-31.428 -32.053,40.722 -25.354,92.985 -43.514,136.08 -37.165,57.28 -53.599,125.8 -49.938,193.74 -180.41,-117.71 270.55,9.3842 426.58,5.7 z M 373,253.895 c -1.1845,-21.402 39.33,-8.2724 0,0 z m 59.3,-4.3 c -27.744,-16.268 33.938,0.73266 0,0 z m -64.2,-22.4 c -1.3444,-39.73 -27.075,-27.276 -3.1,2.8 l 1.6625,-0.5375 z m 140.9,-2.8 c 7.431,-31.433 -45.248,-37.204 -8.2547,-9.4938 2.0564,2.8674 0.88156,15.62 8.2547,9.4938 z"
+                 inkscape:connector-curvature="0"
+                 style="fill:#2d2d2d;stroke:none"
+                 sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccc" />
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2"
+   width="16"
+   height="16"
+   version="1.1"
+   viewBox="0 0 16 16"
+   sodipodi:docname="gimp-prefs-display.svg"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="972"
+     inkscape:window-height="587"
+     id="namedview19"
+     showgrid="false"
+     inkscape:zoom="14.75"
+     inkscape:cx="10.905659"
+     inkscape:cy="8.7021987"
+     inkscape:window-x="235"
+     inkscape:window-y="70"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
+  <metadata
+     id="metadata90">
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Gimp Color Icon Theme</dc:title>
+        <dc:contributor>
+          <cc:Agent>
+            <dc:title>many unknown and unnamed, Andrew Chadwick, Alexandre Prokoudine, Aryeom Han, Benoit Touchette, Jakub Steiner, Jehan, Johannes Matschke, Kevin Payne, Klaus Staedtler, Marek Dvoroznak, Michael Natterer</dc:title>
+          </cc:Agent>
+        </dc:contributor>
+        <dc:description>Enhanced, extended tango-art-libre for GIMP</dc:description>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs7386">
+    <linearGradient
+       id="linearGradient2160"
+       x1="17.248"
+       x2="39.904"
+       y1="6.376"
+       y2="38.876"
+       gradientTransform="matrix(.33964 0 0 .3803 768.35 90.897)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         id="stop5139-6"
+         stop-color="#eeeeec"
+         offset="0" />
+      <stop
+         id="stop5141"
+         stop-color="#e6e6e3"
+         offset="1" />
+    </linearGradient>
+    <radialGradient
+       id="radialGradient2157"
+       cx="24.006"
+       cy="32.997"
+       r="19"
+       gradientTransform="matrix(.42845 0 0 .29602 766.39 91.716)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         id="stop5235"
+         stop-color="#729fcf"
+         offset="0" />
+      <stop
+         id="stop5237"
+         stop-color="#326194"
+         offset="1" />
+    </radialGradient>
+  </defs>
+  <g
+     id="g4185"
+     transform="matrix(.99897 0 0 1.0011 .0080814 -.0084687)">
+    <path
+       id="path2096"
+       d="m 4.65,10.382198 c 0,0 0.42297,1.8766 -1.3404,1.8942 -0.84474,0.0083 -0.67171,1.5346 -0.67171,1.5346 l 10.722,-0.01193 c 0,0 0.14544,-1.4814 -0.7029,-1.4988 -1.7336,-0.03504 -1.3245,-1.9419 -1.3245,-1.9419 l -6.6824,0.02386 z"
+       style="color:#000000;fill:#999999;fill-rule:evenodd;stroke:#999999;stroke-width:0.36357999;stroke-opacity:1"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path2098"
+       d="m1.3525 0.19015h13.253c0.70391 0 1.2169 0.54293 1.2169 1.379l0.0038 9.9652c0 0.64349-0.18365 0.84244-0.70723 0.84244l-14.238-0.007201c-0.4099-0.01095-0.70164-0.18812-0.70715-0.76793l0.005275-10.104c0-0.67458 0.53508-1.3076 1.1734-1.3076z"
+       style="fill-rule:evenodd;fill:#cccccc;stroke-width:0.36358;stroke:#cccccc;opacity:0.95;stroke-opacity:0.95294118" />
+    <rect
+       id="rect4355"
+       x="1.6195"
+       y="1.7271"
+       width="4.178"
+       height="8.7396"
+       style="color:#000000;fill-rule:evenodd;fill:#c00;stroke-dashoffset:0.8;stroke-width:0.36358;stroke:#cc0000;stroke-opacity:1" />
+    <rect
+       id="rect5232-4"
+       x="5.7906"
+       y="1.7202"
+       width="4.178"
+       height="8.7396"
+       style="color:#000000;fill-rule:evenodd;fill:#73d216;stroke-dashoffset:0.8;stroke-width:0.36358;stroke:#73d216;stroke-opacity:1" />
+    <rect
+       id="rect5234"
+       x="9.9617"
+       y="1.7202"
+       width="4.178"
+       height="8.7396"
+       style="color:#000000;fill-rule:evenodd;fill:#3465a4;stroke-dashoffset:0.8;stroke-width:0.36358;stroke:#3465a4;stroke-opacity:1" />
+  </g>
+</svg>

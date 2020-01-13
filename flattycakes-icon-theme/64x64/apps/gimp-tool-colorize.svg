@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg11300"
+   width="16"
+   height="16"
+   version="1.0"
+   viewBox="0 0 16 16"
+   sodipodi:docname="gimp-tool-colorize.svg"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="764"
+     inkscape:window-height="480"
+     id="namedview15"
+     showgrid="false"
+     showguides="false"
+     inkscape:zoom="14.75"
+     inkscape:cx="8"
+     inkscape:cy="8"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg11300" />
+  <defs
+     id="defs3">
+    <linearGradient
+       id="linearGradient5418"
+       x1="-14"
+       x2="-1"
+       y1="2.25"
+       y2="2.25"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         id="stop5412"
+         style="stop-color:#edd400"
+         offset="0" />
+      <stop
+         id="stop5414"
+         style="stop-color:#c00"
+         offset="1" />
+    </linearGradient>
+  </defs>
+  <metadata
+     id="metadata4">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Jakub Steiner</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:source>http://jimmac.musichall.cz</dc:source>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/2.0/" />
+        <dc:title />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/2.0/">
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Reproduction" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Distribution" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/Notice" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/Attribution" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1">
+    <g
+       id="g4153">
+      <path
+         id="path103"
+         d="m14.095 2.1222c0.52067 0 0.90518 0.4037 0.90518 0.85949v1.6271c0 0.45581-0.38451 0.85908-0.90518 0.85908h-5.496c-0.42033 0-0.52166 0.058048-0.65412 0.16088-0.13246 0.1028-0.19801 0.27437-0.19801 0.5367l-0.00114 0.83457h-0.49218l0.00114-0.83505c8.72e-5 -0.32729 0.1153-0.68552 0.3753-0.88728 0.26013-0.20188 0.48115-0.27767 0.969-0.27767h5.496c0.21003 0 0.413-0.12427 0.413-0.39117v-1.6271c0-0.26689-0.20298-0.44557-0.413-0.44557h-4.0948v-0.41394h4.0948z"
+         style="color:#000000;fill:#fff;stroke-width:.5;stroke:#000;text-indent:0;text-transform:none" />
+      <rect
+         id="rect99"
+         transform="scale(-1,1)"
+         x="-8.5907"
+         y="7.1593"
+         width="2.1815"
+         height="8.6815"
+         ry=".30862"
+         style="color:#000000;fill:#204a87;stroke-width:.31854;stroke:#204a87" />
+      <rect
+         id="rect107"
+         transform="scale(-1,1)"
+         x="-13.749"
+         y=".25123"
+         width="12.498"
+         height="3.9975"
+         rx=".78941"
+         ry="1.4626"
+         style="color:#000000;fill:#edd400;stroke-width:0.50245;stroke:none;fill-opacity:1" />
+      <rect
+         id="rect4135"
+         transform="scale(-1,1)"
+         x="-16"
+         y="4.996e-16"
+         width="16"
+         height="16"
+         style="color-rendering:auto;color:#000000;image-rendering:auto;isolation:auto;mix-blend-mode:normal;opacity:0;shape-rendering:auto;solid-color:#000000;stroke-width:.2" />
+      <path
+         id="path109"
+         d="m8.6275 8.1557h-2.231c-0.36364 2.2197-0.27381 4.3539-0.00507 6.5737 0.77844 0.18192 1.4816 0.1185 2.221 0.01206 0.26129-2.2196 0.34778-4.3656 0.015159-6.5852z"
+         style="color:#000000;fill:#729fcf;stroke-width:0.31148;stroke:#729fcf;stroke-opacity:1" />
+    </g>
+  </g>
+</svg>

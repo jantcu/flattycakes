@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2"
+   width="16"
+   height="16"
+   version="1.1"
+   viewBox="0 0 16 16"
+   sodipodi:docname="gimp-prefs-controllers.svg"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1087"
+     inkscape:window-height="616"
+     id="namedview36"
+     showgrid="false"
+     inkscape:zoom="29.5"
+     inkscape:cx="4.716098"
+     inkscape:cy="8.7318634"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
+  <metadata
+     id="metadata90">
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Gimp Color Icon Theme</dc:title>
+        <dc:contributor>
+          <cc:Agent>
+            <dc:title>many unknown and unnamed, Andrew Chadwick, Alexandre Prokoudine, Aryeom Han, Benoit Touchette, Jakub Steiner, Jehan, Johannes Matschke, Kevin Payne, Klaus Staedtler, Marek Dvoroznak, Michael Natterer</dc:title>
+          </cc:Agent>
+        </dc:contributor>
+        <dc:description>Enhanced, extended tango-art-libre for GIMP</dc:description>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs7386">
+    <linearGradient
+       id="linearGradient8340">
+      <stop
+         id="stop8342"
+         stop-color="#fff"
+         stop-opacity=".79608"
+         offset="0" />
+      <stop
+         id="stop8344"
+         stop-color="#fff"
+         stop-opacity=".21569"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4271-9-3"
+       x1="-32.495"
+       x2="-14.705"
+       y1="29.922"
+       y2="29.922"
+       gradientTransform="matrix(.91649 0 0 .91649 29.77 12.577)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         id="stop3075"
+         style="stop-color:#030303"
+         offset="0" />
+      <stop
+         id="stop3081"
+         style="stop-color:#030303;stop-opacity:0"
+         offset=".35135" />
+      <stop
+         id="stop3077"
+         style="stop-color:#030303"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient8605-8"
+       x1="9.6875"
+       x2="9.4062"
+       y1="31.344"
+       y2="29.312"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#linearGradient8340" />
+    <linearGradient
+       id="linearGradient8607-7"
+       x1="9.6875"
+       x2="9.4062"
+       y1="31.344"
+       y2="29.312"
+       gradientTransform="matrix(-1 0 0 1 23.106 0)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#linearGradient8340" />
+    <linearGradient
+       id="linearGradient8609-8"
+       x1="11.453"
+       x2="11.453"
+       y1="34"
+       y2="32.391"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#linearGradient8340" />
+  </defs>
+  <g
+     id="gimp-prefs-controllers"
+     transform="translate(-.14 -32)">
+    <circle
+       id="path4252-1"
+       cx="8.14"
+       cy="40"
+       r="7.2357"
+       style="color-rendering:auto;color:#000000;fill:#cccccc;image-rendering:auto;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5285;stroke:none" />
+    <g
+       id="g4245-1"
+       transform="matrix(.82053 0 0 .82053 34.877 26.82)">
+      <g
+         id="g5812-3"
+         transform="translate(-42.512 -15.348)"
+         style="opacity:.84337">
+        <g
+           id="g4070"
+           transform="matrix(.70601 0 0 .70601 4.9978 10.29)">
+          <path
+             id="rect5775-0"
+             transform="translate(42.512 15.348)"
+             d="m-31.669 10.152c-0.74415 0-1.3438 0.53964-1.3438 1.2094v1.4906h-1.6562c-0.74415 0-1.3438 0.53964-1.3438 1.2094v0.99375c0 0.66974 0.5996 1.2094 1.3438 1.2094h1.6562v1.6781c0 0.66974 0.5996 1.2094 1.3438 1.2094h1.3125c0.74415 0 1.3438-0.53964 1.3438-1.2094v-1.6781h1.6562c0.74415 0 1.3438-0.53964 1.3438-1.2094v-0.99375c0-0.66974-0.5996-1.2094-1.3438-1.2094h-1.6562v-1.4906c0-0.66974-0.5996-1.2094-1.3438-1.2094z"
+             style="color:#000000;stroke-width:0.51786;stroke:#cccccc;fill:#2d2d2d;stroke-opacity:1" />
+        </g>
+      </g>
+    </g>
+    <g
+       id="g4259"
+       transform="matrix(.4555 0 0 .58611 19.333 23.008)">
+      <ellipse
+         id="path115"
+         cx="-30.361"
+         cy="30.935"
+         rx="1.3687"
+         ry="1.0243"
+         style="color:#000000;fill:#3465a4;stroke:#3465a4;stroke-opacity:1" />
+    </g>
+    <g
+       id="g4239"
+       transform="matrix(.44949 0 0 .6006 21.941 16.537)">
+      <ellipse
+         id="path113"
+         cx="-33.441"
+         cy="32.984"
+         rx="1.3687"
+         ry="1.0243"
+         style="color:#000000;fill:#dc0000;stroke:#dc0000;fill-opacity:1;stroke-opacity:1" />
+    </g>
+    <g
+       id="g4243"
+       transform="matrix(.46612 0 0 .58342 18.073 19.278)">
+      <ellipse
+         id="path117"
+         cx="-27.282"
+         cy="32.984"
+         rx="1.3687"
+         ry="1.0243"
+         style="color:#000000;fill:#73d216;stroke:#73d216;stroke-opacity:1" />
+    </g>
+    <g
+       id="g4247"
+       transform="matrix(.46622 0 0 .57449 20.926 23.174)">
+      <ellipse
+         id="path119"
+         cx="-30.361"
+         cy="35.032"
+         rx="1.3687"
+         ry="1.0243"
+         style="color:#000000;fill:#edd400;stroke:#edd400;stroke-opacity:1" />
+    </g>
+  </g>
+</svg>
